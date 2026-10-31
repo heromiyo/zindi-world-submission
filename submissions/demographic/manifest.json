@@ -1,0 +1,14 @@
+{
+  "candidate": "demographic",
+  "rows": 9794,
+  "min": 0.0,
+  "mean": 0.06570753106680631,
+  "p95": 0.2696186866118115,
+  "max": 0.9702302279822056,
+  "low_evidence_rows": 27,
+  "competition_rmse": null,
+  "sha256": "18cd9ec4982efd1d6454822fb64bed770ede55854a58974165ae9adb929d4970",
+  "public_rmse": 0.140188939,
+  "submission_id": "uG9arWJm",
+  "unscored": false
+}

@@ -1,0 +1,12 @@
+{
+  "method": "geographic",
+  "k": 32,
+  "peer_quantile": 0.25,
+  "seed": 20261023,
+  "runtime": "local/open-source only",
+  "unscored": false,
+  "competition_rmse": null,
+  "warning": "Relative peer shortfall is not an identified or calibrated reference gap. Zero population falls back to zero, without claiming completeness. All-road length is a proxy, not the hidden highway component.",
+  "public_rmse": 0.139906454,
+  "submission_id": "eokiTaFt"
+}

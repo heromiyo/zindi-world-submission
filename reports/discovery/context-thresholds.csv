@@ -1,0 +1,6 @@
+region,covered_tracts,excluded_tracts,heat_q75,svi_housing_transport_q75,high_joint_tracts,definition
+maricopa-az,1565,28,15.333333333333334,0.7912,120,upper quartiles within region among tracts covered by both sources; ties included
+northern-ca,591,0,11.555555555555555,0.8230999999999999,48,upper quartiles within region among tracts covered by both sources; ties included
+eastern-ok,1181,11,11.777777777777779,0.7629,90,upper quartiles within region among tracts covered by both sources; ties included
+south-central-tx,5958,45,16.555555555555557,0.720375,411,upper quartiles within region among tracts covered by both sources; ties included
+eastern-wa,412,3,11.88888888888889,0.8392,27,upper quartiles within region among tracts covered by both sources; ties included

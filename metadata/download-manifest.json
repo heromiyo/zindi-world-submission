@@ -1,0 +1,202 @@
+[
+  {
+    "path": "reference/maricopa-az/maricopa-az-sample-submission.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/maricopa-az/maricopa-az-sample-submission.csv",
+    "bytes": 44664,
+    "sha256": "1640b801d56ab308e68c65583b88cfb9e1555b05a6d0b922eaba22ac09960a31",
+    "local_file_mtime_utc": "2026-10-23T02:55:54.130249+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/maricopa-az/maricopa-az-census-acs-housing.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/maricopa-az/maricopa-az-census-acs-housing.csv",
+    "bytes": 49173,
+    "sha256": "67b4be0c5115e5a1c0ec87e2edb8d8f999524ff61a66c6a49de376649800fa81",
+    "local_file_mtime_utc": "2026-10-23T02:55:54.062248+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/maricopa-az/maricopa-az-strata-tract-table.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/maricopa-az/maricopa-az-strata-tract-table.parquet",
+    "bytes": 793492,
+    "sha256": "f19ec2f5afd400827b2420a81916bdec95b08772badd85fdb250149c334a5fcd",
+    "local_file_mtime_utc": "2026-10-23T02:55:55.486250+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/maricopa-az/maricopa-az-census-tracts.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/maricopa-az/maricopa-az-census-tracts.parquet",
+    "bytes": 5242171,
+    "sha256": "be3be05b7fcf77773d43a4d9b8ef18af44d1bdc840fd215b31329ad2b0bcfedd",
+    "local_file_mtime_utc": "2026-10-23T02:55:56.846251+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/maricopa-az/maricopa-az-overture-pois.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/maricopa-az/maricopa-az-overture-pois.parquet",
+    "bytes": 40987154,
+    "sha256": "9729146f70026f98d68cc47008cf679dd450e3378680c70090351572f8c3315f",
+    "local_file_mtime_utc": "2026-10-23T02:57:34.106263+00:00",
+    "role": "supplied POI observations"
+  },
+  {
+    "path": "reference/northern-ca/northern-ca-sample-submission.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-sample-submission.csv",
+    "bytes": 16608,
+    "sha256": "f38017b5284667b80b451685fd146388c108e1b30308301289c7a96ecfe60902",
+    "local_file_mtime_utc": "2026-10-23T02:55:55.328101+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/northern-ca/northern-ca-census-acs-housing.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-census-acs-housing.csv",
+    "bytes": 18295,
+    "sha256": "f7b4e16b8d93c410ad2f4a4e88a33e2b89b3f0f15cf553f205ec8486d762d783",
+    "local_file_mtime_utc": "2026-10-23T02:55:56.490251+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/northern-ca/northern-ca-strata-tract-table.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-strata-tract-table.parquet",
+    "bytes": 354711,
+    "sha256": "7fc19dce5ca76ee94eb2006d9bd51bed71d5bfbcdf3ef756605e0998df940243",
+    "local_file_mtime_utc": "2026-10-23T02:55:57.862253+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/northern-ca/northern-ca-census-tracts.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-census-tracts.parquet",
+    "bytes": 4762054,
+    "sha256": "910e21ff039000dff13779051cd5d1ef62c0ea183ebdd7ff4170942fe5fb877d",
+    "local_file_mtime_utc": "2026-10-23T02:56:04.730261+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/northern-ca/northern-ca-overture-pois.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-pois.parquet",
+    "bytes": 16168720,
+    "sha256": "6318deb41156116c002f2bf0222e37b0ba758c1707fbf573da13afd32a482d6a",
+    "local_file_mtime_utc": "2026-10-23T02:56:18.622271+00:00",
+    "role": "supplied POI observations"
+  },
+  {
+    "path": "reference/eastern-ok/eastern-ok-sample-submission.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-ok/eastern-ok-sample-submission.csv",
+    "bytes": 33436,
+    "sha256": "56cb40fba4008d646bc63c62c91e211871459224b3de8b3a886ff813803fd0d4",
+    "local_file_mtime_utc": "2026-10-23T02:55:59.418255+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/eastern-ok/eastern-ok-census-acs-housing.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-ok/eastern-ok-census-acs-housing.csv",
+    "bytes": 36721,
+    "sha256": "775c80b5a97a297f32816b42620e8bd98b75ab5cb60daad59b5da974a2eb7358",
+    "local_file_mtime_utc": "2026-10-23T02:56:00.970257+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/eastern-ok/eastern-ok-strata-tract-table.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-ok/eastern-ok-strata-tract-table.parquet",
+    "bytes": 638464,
+    "sha256": "e82862b9d9db436410ad47df466e133df94df6328f6a138d5bd871b491ba0d54",
+    "local_file_mtime_utc": "2026-10-23T02:56:04.214260+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/eastern-ok/eastern-ok-census-tracts.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-ok/eastern-ok-census-tracts.parquet",
+    "bytes": 5324978,
+    "sha256": "cffccf214028d124747de44fce3edff9acce0a43bf0efcf62727cb7cd7d57623",
+    "local_file_mtime_utc": "2026-10-23T02:56:17.794271+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/eastern-ok/eastern-ok-overture-pois.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-ok/eastern-ok-overture-pois.parquet",
+    "bytes": 28848614,
+    "sha256": "1ab300aec153e52c781defaa1986ea3144950f557ed1894b14237a8d8e016290",
+    "local_file_mtime_utc": "2026-10-23T02:57:09.314276+00:00",
+    "role": "supplied POI observations"
+  },
+  {
+    "path": "reference/south-central-tx/south-central-tx-sample-submission.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/south-central-tx/south-central-tx-sample-submission.csv",
+    "bytes": 168144,
+    "sha256": "afa59c0eb30c40be25ce82098f144447591b79cb9692e669b2f2fe7b7b1ee58e",
+    "local_file_mtime_utc": "2026-10-23T02:56:20.026270+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/south-central-tx/south-central-tx-census-acs-housing.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/south-central-tx/south-central-tx-census-acs-housing.csv",
+    "bytes": 185447,
+    "sha256": "a6d26cb685143642ce705ba5d2708a3e9c2962ff52b716f54d5c9c1fe6d63ab5",
+    "local_file_mtime_utc": "2026-10-23T02:56:21.006269+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/south-central-tx/south-central-tx-strata-tract-table.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/south-central-tx/south-central-tx-strata-tract-table.parquet",
+    "bytes": 2800838,
+    "sha256": "55589565024414f244ccbcadcc45a90860a3840ec9d8a4bdfa8a126c2128a354",
+    "local_file_mtime_utc": "2026-10-23T02:56:24.250272+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/south-central-tx/south-central-tx-census-tracts.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/south-central-tx/south-central-tx-census-tracts.parquet",
+    "bytes": 20580821,
+    "sha256": "7d64db287ed13d979197338e5d3702ba9f7ec4d1c563aff955bf6fe6bda6fc82",
+    "local_file_mtime_utc": "2026-10-23T02:57:38.266267+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/south-central-tx/south-central-tx-overture-pois.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/south-central-tx/south-central-tx-overture-pois.parquet",
+    "bytes": 179937096,
+    "sha256": "08728fee580c90179188b1cdf89818e080c64acd1a16958f5fa00d17aac3c6a9",
+    "local_file_mtime_utc": "2026-10-23T03:03:19.746283+00:00",
+    "role": "supplied POI observations"
+  },
+  {
+    "path": "reference/eastern-wa/eastern-wa-sample-submission.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-sample-submission.csv",
+    "bytes": 11680,
+    "sha256": "0e0155d5a5e8ef39dc857c8268669b5fb498d7ac40f0ded782482c67ae5efefc",
+    "local_file_mtime_utc": "2026-10-23T03:01:47.691135+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/eastern-wa/eastern-wa-census-acs-housing.csv",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-census-acs-housing.csv",
+    "bytes": 12847,
+    "sha256": "4fbcd3d7923551b1ec37fb4ced9a36da6403da8191eb24049bfbe1c2b3a757bb",
+    "local_file_mtime_utc": "2026-10-23T03:01:47.787228+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/eastern-wa/eastern-wa-strata-tract-table.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-strata-tract-table.parquet",
+    "bytes": 266685,
+    "sha256": "997de038b4d2cab2129c8502c48aab1edc4016981a2ef0556d63ca1518cac737",
+    "local_file_mtime_utc": "2026-10-23T03:01:49.238282+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "strata/eastern-wa/eastern-wa-census-tracts.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-census-tracts.parquet",
+    "bytes": 3872070,
+    "sha256": "428ae8c2bcc8537493deea86c518bb91a5407c182916577ac7089b52dc752c16",
+    "local_file_mtime_utc": "2026-10-23T03:02:08.834291+00:00",
+    "role": "supplied membership or contextual data"
+  },
+  {
+    "path": "reference/eastern-wa/eastern-wa-overture-pois.parquet",
+    "url": "https://s3.us-west-2.amazonaws.com/us-west-2.opendata.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-pois.parquet",
+    "bytes": 10761396,
+    "sha256": "3babc61314e84203ce786a03258bd23b8635ac1a2c7a3db0d39914a8a2ac5a74",
+    "local_file_mtime_utc": "2026-10-23T03:02:26.086285+00:00",
+    "role": "supplied POI observations"
+  }
+]

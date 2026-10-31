@@ -1,0 +1,6 @@
+region,counties,rural_minus_urban_hidden_pp,ci95_pp,visible_share_rural,ci_rural,visible_share_urban,ci_urban
+all four,298,22.2,19.7 to 24.7,0.232,0.200-0.264,0.362,0.319-0.406
+eastern-ok,73,24.8,19.1 to 29.3,0.232,0.178-0.291,0.408,0.322-0.544
+maricopa-az,16,20.9,13.2 to 29.0,0.206,0.091-0.333,0.274,0.212-0.407
+northern-ca,24,27.3,15.6 to 35.7,0.147,0.067-0.246,0.27,0.167-0.348
+south-central-tx,185,20.6,17.1 to 23.9,0.25,0.207-0.294,0.379,0.323-0.425

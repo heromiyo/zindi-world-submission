@@ -1,0 +1,26 @@
+{
+  "primary_question": "Is the proportion of source-closed emergency POI records greater in joint upper-quartile heat and housing/transport vulnerability tracts, after service/region standardisation?",
+  "analysis_status": "exploratory, selected after earlier record screening",
+  "all_emergency_records": 4478,
+  "source_closed": 91,
+  "status_unknown": 1171,
+  "eligible_context_records": 4440,
+  "excluded_context_records": 38,
+  "standardised_difference_pp": -0.42385902061161157,
+  "known_status_only_difference_pp": -0.7795144619020585,
+  "cluster_resampling": {
+    "status": "county-resampling sensitivity only, not uncertainty about the fixed map snapshot",
+    "seed": 20261023,
+    "requested_replicates": 999,
+    "valid_replicates": 948,
+    "skipped": 51,
+    "counties": 312,
+    "interval95": [
+      -0.01615957389436169,
+      0.02150593740293199
+    ],
+    "assumption": "counties sampled within fixed regions; cells and standardisation weights fixed from observed shared cells"
+  },
+  "primary_direction_supported_under_this_design": false,
+  "independent_service_closures_verified": 0
+}

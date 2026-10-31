@@ -1,0 +1,14 @@
+{
+ "documentation.sources_documented": 0.77,
+ "documentation.components_explained": 0.73,
+ "documentation.edge_cases_handled": 0.98,
+ "documentation.weightings_justified": 0.94,
+ "documentation.reproducible": 0.63,
+ "documentation.honest_limits": 0.94,
+ "documentation.plain_voice": 0.85,
+ "discovery.impact_concrete": 0.94,
+ "discovery.novel_outside_scorecard": 0.91,
+ "discovery.evidence_quantified": 0.95,
+ "discovery.reproducible_discovery": 0.85,
+ "discovery.plain_voice": 0.73
+}

@@ -1,0 +1,14 @@
+{
+  "candidate": "geographic",
+  "rows": 9794,
+  "min": 0.0,
+  "mean": 0.06357090399312303,
+  "p95": 0.27083438419503997,
+  "max": 0.9628944741982748,
+  "low_evidence_rows": 27,
+  "competition_rmse": null,
+  "sha256": "fa179efdb9dde8fb3efa47b98cdc9d1b38f21237c6164221f36c5e01d7d5efcb",
+  "public_rmse": 0.139906454,
+  "submission_id": "eokiTaFt",
+  "unscored": false
+}

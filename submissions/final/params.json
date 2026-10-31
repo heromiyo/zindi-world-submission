@@ -1,0 +1,13 @@
+{
+ "fitted_v2_params": {
+  "fac_scale": 0.0552,
+  "e_scale": 0.1023,
+  "b_gap": 0.0,
+  "sigma_T": 0.6837
+ },
+ "affine_a": 0.01267805312591809,
+ "affine_b": 0.9174856927674451,
+ "mix_stack": 0.85,
+ "mix_blend": 0.15,
+ "sha256": "7f02eee6cbc46ba257e86d2b309f2fc6bc970163b7cbfc0bab457f14137c2331"
+}

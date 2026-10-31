@@ -1,0 +1,1734 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1175731,
+          33.4362534
+        ]
+      },
+      "properties": {
+        "id": "cc0a2408-8e88-451f-9ca4-fd432403e928",
+        "GEOID": "04013114704",
+        "name": "Phoenix Fire Department Station 21",
+        "region": "maricopa-az",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0235999,
+          33.42566
+        ]
+      },
+      "properties": {
+        "id": "45310a75-cf37-43dd-a9c6-6380bf7f6e01",
+        "GEOID": "04013113800",
+        "name": "International Life Flight",
+        "region": "maricopa-az",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9776772,
+          33.4056532
+        ]
+      },
+      "properties": {
+        "id": "9fc4b693-cede-48f1-89a7-0475623b977a",
+        "GEOID": "04013319709",
+        "name": "Valley Care & Enrichment Services",
+        "region": "maricopa-az",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9837753,
+          33.4488473
+        ]
+      },
+      "properties": {
+        "id": "336e8119-35e3-41c3-9dce-c709ca11fdaa",
+        "GEOID": "04013113800",
+        "name": "Lifebot",
+        "region": "maricopa-az",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8252293,
+          33.4157729
+        ]
+      },
+      "properties": {
+        "id": "4e491733-558a-43eb-b578-5f01abec978e",
+        "GEOID": "04013421400",
+        "name": "Pmt",
+        "region": "maricopa-az",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.692154,
+          33.385003
+        ]
+      },
+      "properties": {
+        "id": "a53a73ba-9d69-48b0-a1b9-1433e4332c64",
+        "GEOID": "04013422639",
+        "name": "Native Air Services Inc",
+        "region": "maricopa-az",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1220632,
+          33.4890975
+        ]
+      },
+      "properties": {
+        "id": "1841e033-f99d-41c0-a407-076a98efd65f",
+        "GEOID": "04013116900",
+        "name": "Frontier Emergency Products",
+        "region": "maricopa-az",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1099746,
+          33.555041
+        ]
+      },
+      "properties": {
+        "id": "3f729bc8-e74a-4777-88e5-0339af2dbae2",
+        "GEOID": "04013105501",
+        "name": "Jdr Research",
+        "region": "maricopa-az",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0298981,
+          34.7355233
+        ]
+      },
+      "properties": {
+        "id": "7c405d90-e620-4af4-aa23-22a52e9750aa",
+        "GEOID": "04025002001",
+        "name": "Kyle Murray, Do",
+        "region": "maricopa-az",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.29777,
+          34.335647
+        ]
+      },
+      "properties": {
+        "id": "c5aa7df0-b7e8-4d17-b7b0-0be30c7b9887",
+        "GEOID": "04007000200",
+        "name": "Beaver Valley Fire Department",
+        "region": "maricopa-az",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3407422,
+          40.5706598
+        ]
+      },
+      "properties": {
+        "id": "0aed81db-153a-4972-a003-6add44fdbacf",
+        "GEOID": "06089011300",
+        "name": "Merit Medi-trans",
+        "region": "northern-ca",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.845255,
+          39.7753888
+        ]
+      },
+      "properties": {
+        "id": "f136c8fe-fcc5-4d9a-b071-8be9c582a194",
+        "GEOID": "06007000201",
+        "name": "Merit Medi-trans",
+        "region": "northern-ca",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0759988,
+          39.2043211
+        ]
+      },
+      "properties": {
+        "id": "abd4b865-5451-4ec5-b601-c18846607b2f",
+        "GEOID": "06057000502",
+        "name": "Nevada County Consolidated Fire District",
+        "region": "northern-ca",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.076884,
+          38.905059
+        ]
+      },
+      "properties": {
+        "id": "346f3e65-9df7-4c92-aaf7-291ee5c96574",
+        "GEOID": "06061020300",
+        "name": "American Medical Response",
+        "region": "northern-ca",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.497068,
+          38.575961
+        ]
+      },
+      "properties": {
+        "id": "fdf26b7f-e83f-4680-809f-993594089847",
+        "GEOID": "06067001103",
+        "name": "Ca Department-forestry",
+        "region": "northern-ca",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.510306,
+          38.659995
+        ]
+      },
+      "properties": {
+        "id": "4ffe5982-ec24-4e5b-8bb3-7f7414243714",
+        "GEOID": "06067007103",
+        "name": "Sci Park Place Fund Llc",
+        "region": "northern-ca",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.52203,
+          35.479116
+        ]
+      },
+      "properties": {
+        "id": "19de9c31-9bdd-49b5-9d75-d8febfe4050a",
+        "GEOID": "40109980006",
+        "name": "Emsa",
+        "region": "eastern-ok",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9755249,
+          36.0239258
+        ]
+      },
+      "properties": {
+        "id": "02b3e723-f6ad-41e2-9ccb-78ca50fa48b1",
+        "GEOID": "40143006703",
+        "name": "Jenks Fire Department",
+        "region": "eastern-ok",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3374598,
+          36.6645243
+        ]
+      },
+      "properties": {
+        "id": "98ef5bb3-48f5-4728-821c-c57cbbd32ef4",
+        "GEOID": "40113940013",
+        "name": "Central Med Ems Inc",
+        "region": "eastern-ok",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.938384,
+          36.752828
+        ]
+      },
+      "properties": {
+        "id": "9d93128e-539c-4715-b82e-9ca22e91579b",
+        "GEOID": "40147000400",
+        "name": "Ronald L Hay, Md",
+        "region": "eastern-ok",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4856399,
+          27.5422338
+        ]
+      },
+      "properties": {
+        "id": "8d62a3b6-4a3a-42ba-abef-cd50aa731788",
+        "GEOID": "48479001706",
+        "name": "Gems Sa Enterprises Ltd",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.483871,
+          27.556023
+        ]
+      },
+      "properties": {
+        "id": "ada382fa-ff93-431f-9056-df0dc6ada78b",
+        "GEOID": "48479001719",
+        "name": "South Texas Ambulance Response",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8555775,
+          28.5223296
+        ]
+      },
+      "properties": {
+        "id": "b8aa9d6b-4e1b-489d-af88-56eb8994ef32",
+        "GEOID": "48127950201",
+        "name": "Dimmit County Ems Ambulance",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8955673,
+          28.513425
+        ]
+      },
+      "properties": {
+        "id": "069b60b9-7e72-4cae-b4d1-d087f7bf6189",
+        "GEOID": "48127950202",
+        "name": "Camino Real Ambulance Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.784483,
+          29.2063
+        ]
+      },
+      "properties": {
+        "id": "7636fa8c-50f6-4802-bc2f-8ba13aa5037a",
+        "GEOID": "48463950500",
+        "name": "Alamo Area Ambulance",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.906192,
+          29.1376996
+        ]
+      },
+      "properties": {
+        "id": "240f9361-7fdc-4cee-a3cf-4b101e65538e",
+        "GEOID": "48325000801",
+        "name": "Devine Volunteer Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6726665,
+          30.2726864
+        ]
+      },
+      "properties": {
+        "id": "3c11f4f6-08c9-4acc-8c9e-38930792c877",
+        "GEOID": "48453002110",
+        "name": "American Medical Response",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3889121,
+          30.4601141
+        ]
+      },
+      "properties": {
+        "id": "1d17d5e2-0a08-4558-b405-6689496c8edc",
+        "GEOID": "48491020900",
+        "name": "Coupland Volunteer Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3301368,
+          30.1079226
+        ]
+      },
+      "properties": {
+        "id": "e2d22dc9-e6cb-41bc-a312-c0f39ef98e8e",
+        "GEOID": "48021950401",
+        "name": "Metrocare Ambulance",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.689332,
+          30.708636
+        ]
+      },
+      "properties": {
+        "id": "cc5f4c6c-771d-40a9-884e-1b381812490e",
+        "GEOID": "48491020106",
+        "name": "Central Texas Ems Llc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.834213,
+          31.542477
+        ]
+      },
+      "properties": {
+        "id": "eb2b38ba-72a0-41f2-9bcf-699ccf04a293",
+        "GEOID": "48309003601",
+        "name": "Mart Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.121556,
+          32.815967
+        ]
+      },
+      "properties": {
+        "id": "f84871c7-db96-41a0-9192-c16ef0b2fb41",
+        "GEOID": "48439113511",
+        "name": "Euless Fire Station No. 2",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.579914,
+          32.944216
+        ]
+      },
+      "properties": {
+        "id": "8645acfa-f218-4476-95fa-afcd85316ff7",
+        "GEOID": "48367140413",
+        "name": "Briar-reno Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3225227,
+          32.7067693
+        ]
+      },
+      "properties": {
+        "id": "25a4dbbc-b904-43ce-8da6-e2b9406e297a",
+        "GEOID": "48439104502",
+        "name": "Med Star",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2227147,
+          32.4740308
+        ]
+      },
+      "properties": {
+        "id": "f4b373e7-b755-4f4f-adaa-2c2d72048e2a",
+        "GEOID": "48251130416",
+        "name": "Professional Ambulance Sales & Service",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7533304,
+          32.1516499
+        ]
+      },
+      "properties": {
+        "id": "cc6cc243-cebc-4a57-8a1c-15e65e8d0270",
+        "GEOID": "48213950302",
+        "name": "Baxter Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.704275,
+          32.907531
+        ]
+      },
+      "properties": {
+        "id": "73ecfbc0-9cd7-491b-aaef-2c65a20a4ae9",
+        "GEOID": "48113018506",
+        "name": "Frontier Fire Systems, Inc.",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.618257,
+          32.878786
+        ]
+      },
+      "properties": {
+        "id": "3a344054-6cb0-41fe-a204-eac559158cbd",
+        "GEOID": "48113018110",
+        "name": "Lifecare Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3912978,
+          32.3589176
+        ]
+      },
+      "properties": {
+        "id": "bb76ea64-5722-44b0-8c27-eb6bedacfb42",
+        "GEOID": "48423980000",
+        "name": "Dixie Volunteer Fire Department - Station 1",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.138911,
+          32.37483
+        ]
+      },
+      "properties": {
+        "id": "8580b25e-1e94-4721-98ed-19f451a3e591",
+        "GEOID": "48423001804",
+        "name": "Jackson Heights Volunteer Fire Department - Station 1",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.397729,
+          30.1664381
+        ]
+      },
+      "properties": {
+        "id": "20855f03-c6dd-41c8-a978-434bf51716f7",
+        "GEOID": "48477170400",
+        "name": "Prudence Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.529163,
+          30.402668
+        ]
+      },
+      "properties": {
+        "id": "a6d37528-ad25-435d-a7a9-f3629b1c1265",
+        "GEOID": "48339694209",
+        "name": "Protec Ambulance Transport",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.133566,
+          29.541729
+        ]
+      },
+      "properties": {
+        "id": "3bda2212-5720-46fe-834c-534c79e6561d",
+        "GEOID": "48201341101",
+        "name": "Clear Lake Emergency Medical",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.182711,
+          29.5513871
+        ]
+      },
+      "properties": {
+        "id": "96dc3992-3cc0-425e-9f92-4a7cdddedb6c",
+        "GEOID": "48201350601",
+        "name": "Renegade Fire Systems Llc",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.185566,
+          29.590435
+        ]
+      },
+      "properties": {
+        "id": "c47515de-c764-4cfe-80dc-6179c7e810a6",
+        "GEOID": "48201340102",
+        "name": "Lifewatch Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.27204,
+          29.850226
+        ]
+      },
+      "properties": {
+        "id": "522e5a96-fbf4-4fe3-9f7e-338eb2ab6a34",
+        "GEOID": "48201231300",
+        "name": "Vanguard Ems Llc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.366359,
+          29.733192
+        ]
+      },
+      "properties": {
+        "id": "af85cedb-4998-49e3-b256-ce344838bb2d",
+        "GEOID": "48201312400",
+        "name": "Ambucare Trans Llc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36569,
+          29.749989
+        ]
+      },
+      "properties": {
+        "id": "9f3312d1-5246-479e-98be-fc25d3a0eec2",
+        "GEOID": "48201100001",
+        "name": "Access Ambulance",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.41668,
+          29.818663
+        ]
+      },
+      "properties": {
+        "id": "b8132c96-84e6-494a-9c66-67bd9df8a315",
+        "GEOID": "48201530200",
+        "name": "Orion Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.606669,
+          29.877764
+        ]
+      },
+      "properties": {
+        "id": "04186eb9-47c3-4e18-b6b6-2f931cc82be8",
+        "GEOID": "48201540102",
+        "name": "St Boniface Ems Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.586143,
+          29.783663
+        ]
+      },
+      "properties": {
+        "id": "0c7ed532-0de8-4d47-ae5b-68ef4b4f294b",
+        "GEOID": "48201450200",
+        "name": "Westridge Ems Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.592103,
+          29.737227
+        ]
+      },
+      "properties": {
+        "id": "30c53a4a-fea5-4c13-af5a-35c3529d55e7",
+        "GEOID": "48201451301",
+        "name": "Air Ambulance International",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.522559,
+          29.736673
+        ]
+      },
+      "properties": {
+        "id": "52163028-bba1-467a-8286-f6060564b997",
+        "GEOID": "48201432200",
+        "name": "Maka Ems Service Llc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.522559,
+          29.736673
+        ]
+      },
+      "properties": {
+        "id": "8a241d98-56ea-42a0-bc6b-e9f07578388b",
+        "GEOID": "48201432200",
+        "name": "Citywide Ems Llc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.562683,
+          29.809734
+        ]
+      },
+      "properties": {
+        "id": "663691d1-4240-457d-bccc-edfc9937cec4",
+        "GEOID": "48201522402",
+        "name": "Bomberos",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.493672,
+          29.732383
+        ]
+      },
+      "properties": {
+        "id": "5ba4a564-b8e8-4048-b736-1d8fb7802d23",
+        "GEOID": "48201432005",
+        "name": "Dignity Best Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.514664,
+          29.716581
+        ]
+      },
+      "properties": {
+        "id": "e6b53ea3-88eb-49f1-8a3c-4cd8ac19c0a9",
+        "GEOID": "48201432803",
+        "name": "Lynbrook Ems Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.494519,
+          29.675724
+        ]
+      },
+      "properties": {
+        "id": "1d8825fb-411f-44ca-b8f6-15d146172d92",
+        "GEOID": "48201422501",
+        "name": "Sky Med Llc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5673138,
+          29.6354519
+        ]
+      },
+      "properties": {
+        "id": "4e1002d8-1e35-43c2-9e6b-13b31a88b939",
+        "GEOID": "48157671800",
+        "name": "Houston's Choice Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.577168,
+          29.633524
+        ]
+      },
+      "properties": {
+        "id": "a2051a10-80ac-4387-8dbb-eacf8246e35e",
+        "GEOID": "48157671800",
+        "name": "Sugar Land Ems, Inc.",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.529012,
+          29.688366
+        ]
+      },
+      "properties": {
+        "id": "427d5e60-da44-49a2-b52a-04e50ef58202",
+        "GEOID": "48201422900",
+        "name": "Southeast Ambulance Services",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.553146,
+          29.675955
+        ]
+      },
+      "properties": {
+        "id": "087d288e-fb23-4cc0-a4e9-23c3e25cd175",
+        "GEOID": "48201433504",
+        "name": "South Texas Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.41076,
+          29.637072
+        ]
+      },
+      "properties": {
+        "id": "60e69c8d-5445-432a-92e4-812e44a06ca6",
+        "GEOID": "48201330102",
+        "name": "Region 6ems Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.421775,
+          29.679723
+        ]
+      },
+      "properties": {
+        "id": "fd01f8ae-cc02-4af2-b29e-26d461d5c32a",
+        "GEOID": "48201314302",
+        "name": "Wheel Care Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.425324,
+          29.676062
+        ]
+      },
+      "properties": {
+        "id": "edcbdfd3-e446-45ef-a0ba-37520362d769",
+        "GEOID": "48201334101",
+        "name": "Ducare Ems Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.419898,
+          29.67855
+        ]
+      },
+      "properties": {
+        "id": "8e0f37b7-12bb-4669-9e60-2d1dfedd5692",
+        "GEOID": "48201314302",
+        "name": "Champion Of Texas Ems Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.22212,
+          29.611507
+        ]
+      },
+      "properties": {
+        "id": "d3f06922-e194-4d78-9f33-cc01d0cdd282",
+        "GEOID": "48201334002",
+        "name": "Legend Ems Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8406971,
+          29.3951474
+        ]
+      },
+      "properties": {
+        "id": "54bcfb19-3bcd-49c5-bab3-38c582db6afb",
+        "GEOID": "48157675702",
+        "name": "Quality Elite Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.750016,
+          29.542256
+        ]
+      },
+      "properties": {
+        "id": "68917c65-66a5-4ac6-a851-2826d060bda5",
+        "GEOID": "48157675502",
+        "name": "Base Security & Fire Consultants",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.543367,
+          29.694528
+        ]
+      },
+      "properties": {
+        "id": "48309f3d-6c09-459f-a075-72c940aa1a17",
+        "GEOID": "48089750500",
+        "name": "Colorado Ambulance Emergency",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5485348,
+          29.8711812
+        ]
+      },
+      "properties": {
+        "id": "9e78f3cd-3856-4322-93b0-6f341a10b65b",
+        "GEOID": "48089750400",
+        "name": "Frelsburg Volunteer Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9558156,
+          29.5151358
+        ]
+      },
+      "properties": {
+        "id": "c7ca9dc2-52cf-47cb-a49b-d1253dcda4b2",
+        "GEOID": "48187210902",
+        "name": "Akin Ambulance Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2839033,
+          29.5618722
+        ]
+      },
+      "properties": {
+        "id": "374acb38-8b8f-4d07-adf0-06df673eea06",
+        "GEOID": "48187210706",
+        "name": "Metro Ambulance Lp",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.755111,
+          29.4541827
+        ]
+      },
+      "properties": {
+        "id": "845a1a65-673b-43ed-b7b3-d9b4598c22f9",
+        "GEOID": "48029172009",
+        "name": "Bexar County Esd No. 2 | Bexar County 2 Fire Department - Station 121",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4971347,
+          29.5502053
+        ]
+      },
+      "properties": {
+        "id": "66322189-e133-4773-bd44-1aeb8b57ead3",
+        "GEOID": "48029192300",
+        "name": "American Medical Response",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.595936,
+          29.439084
+        ]
+      },
+      "properties": {
+        "id": "c92d3c98-a121-49f6-91d8-b2861ddc7d5a",
+        "GEOID": "48029171401",
+        "name": "Express Handicap Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6036226,
+          29.4119956
+        ]
+      },
+      "properties": {
+        "id": "96403053-d6ef-4986-8f0a-4e7928847583",
+        "GEOID": "48029171602",
+        "name": "District 6 City Council Office",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8808843,
+          29.3541983
+        ]
+      },
+      "properties": {
+        "id": "143612a0-e42e-45c7-ba95-1affe27f2883",
+        "GEOID": "48325000103",
+        "name": "Castroville Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4370421,
+          29.1409686
+        ]
+      },
+      "properties": {
+        "id": "08c2c018-451f-4246-b368-4f560f7dc98c",
+        "GEOID": "48029152201",
+        "name": "Sandyoaks Volunteer Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9978094,
+          28.8189607
+        ]
+      },
+      "properties": {
+        "id": "4e8292e2-5102-4e98-b949-a8b5233ba7f2",
+        "GEOID": "48469000601",
+        "name": "Als Ambulance Services Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2999907,
+          27.676397
+        ]
+      },
+      "properties": {
+        "id": "8b9df732-b23e-4123-8c6a-a8d43c116471",
+        "GEOID": "48355003003",
+        "name": "Americana Ambulance",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6628554,
+          27.7900199
+        ]
+      },
+      "properties": {
+        "id": "e66994e2-3b92-4018-acf7-125bbc826895",
+        "GEOID": "48355005604",
+        "name": "Robstown Fire Department",
+        "region": "south-central-tx",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8525815,
+          26.3964082
+        ]
+      },
+      "properties": {
+        "id": "ecd69ee9-dace-4214-82cf-b7cb9372dcf8",
+        "GEOID": "48427950104",
+        "name": "Trans Starr Ems Llc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.239365,
+          26.238518
+        ]
+      },
+      "properties": {
+        "id": "ed2798e3-f8d8-466e-a588-be4b3d0907bb",
+        "GEOID": "48215020806",
+        "name": "Halo Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2201684,
+          26.2660257
+        ]
+      },
+      "properties": {
+        "id": "8089ad2d-6ac1-4194-ab0e-3e6393f45505",
+        "GEOID": "48215020807",
+        "name": "Tac Med, Inc",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1792809,
+          26.2059365
+        ]
+      },
+      "properties": {
+        "id": "027bc844-37c4-4420-ad82-748f1d1141b2",
+        "GEOID": "48215021705",
+        "name": "Royalty Ambulance Services",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.184944,
+          26.206451
+        ]
+      },
+      "properties": {
+        "id": "a9f6ef9c-d08f-4e63-92d0-de4823251d48",
+        "GEOID": "48215021703",
+        "name": "Priority Care Ems",
+        "region": "south-central-tx",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.43154283000001,
+          48.52750954
+        ]
+      },
+      "properties": {
+        "id": "fe05131d-81cc-40da-96f8-54fd7abba543",
+        "GEOID": "53057951101",
+        "name": "Marblemount Fire Hall",
+        "region": "eastern-wa",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2960658,
+          47.4195854
+        ]
+      },
+      "properties": {
+        "id": "5b25c647-751d-454f-8d6d-b17b62bb362b",
+        "GEOID": "53017950500",
+        "name": "Ballard Ambulance",
+        "region": "eastern-wa",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2851715,
+          47.40563
+        ]
+      },
+      "properties": {
+        "id": "bf7198fe-1515-47b2-8971-12cd91dd915a",
+        "GEOID": "53017950500",
+        "name": "Lifeline Ambulance",
+        "region": "eastern-wa",
+        "facility_type": "ems",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5472329,
+          48.6072267
+        ]
+      },
+      "properties": {
+        "id": "35a39358-159c-445d-8b5d-fa7ebad3020d",
+        "GEOID": "53065950600",
+        "name": "Stevens County Fire District",
+        "region": "eastern-wa",
+        "facility_type": "fire",
+        "source_status": "permanently_closed",
+        "independent_verification": false
+      }
+    }
+  ]
+}

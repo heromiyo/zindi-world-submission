@@ -1,0 +1,9 @@
+# Qualitative checks for the reviewer
+
+Checked23October2026. These web references are separate from the supplied-data computation and never enter predictions, thresholds or quantitative comparisons. City-page reuse licences have not been established; do not treat these as approved additional competition datasets. They are leads for review, not field verification of current operations.
+
+- Phoenix: the supplied record for Phoenix Fire Department Station21 at1212S27thAve is marked permanently_closed. The [City of Phoenix station list](https://www.phoenix.gov/administration/departments/fire/about-us/units-divisions/locations.html) lists Station21 at the same address, with equipment. This is a documentary contradiction to review, not proof that a service is currently open or closed. It argues against treating every closed flag as ground truth.
+- Jenks: the supplied Jenks Fire Department record at205NElmSt is marked permanently_closed. The [city's services page](https://www.jenks.com/220/Services) still identifies Station1 at that address. Again, map status and a city web listing disagree; either source could be stale.
+- Euless: the supplied record for Fire Station No.2 at1515WestparkWay is marked permanently_closed. A [city newsletter](https://www.eulesstx.gov/home/showpublisheddocument/3488/638741697038300000) discusses replacement of that station and repurposing the old facility. A closed record can reflect relocation, not removal of fire service from the community. The exact transition date and current map replacement record need review.
+
+These examples do not establish the primary group-disparity hypothesis. They reinforce the need to preserve status uncertainty and to distinguish service identity, site identity and historical records. No claims of actual emergency delay or harm follow.

@@ -1,0 +1,10 @@
+indicator,disparity_ratio,coverage_gap_reading
+Rural vs Urban,1.70,70% larger
+Tribal vs Non-Tribal,1.49,49% larger
+High Social Vulnerability,1.01,Similar
+High Climate Vulnerability,1.25,25% larger
+Summer Drought,0.94,Similar
+Winter Drought,0.99,Similar
+Wildfire Hazard,1.34,34% larger
+Summer Heat,0.94,Similar
+High Hazard + High Vulnerability,1.05,Similar

@@ -1,0 +1,9 @@
+region,ur_class,tracts,ems_primary,ems_hidden,visible_share_of_known_EMS_tracts
+eastern-ok,Rural,411,0.107,0.355,0.232
+eastern-ok,Urban,780,0.074,0.108,0.407
+maricopa-az,Rural,163,0.08,0.307,0.207
+maricopa-az,Urban,1419,0.037,0.097,0.276
+northern-ca,Rural,147,0.068,0.395,0.147
+northern-ca,Urban,444,0.045,0.122,0.269
+south-central-tx,Rural,991,0.109,0.327,0.25
+south-central-tx,Urban,4998,0.074,0.121,0.379

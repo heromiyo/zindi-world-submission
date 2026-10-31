@@ -1,0 +1,11 @@
+region,facility_type,n_high,closed_high,n_other,closed_other,rate_high,rate_other,eligible_cell
+eastern-ok,ems,10,0,63,2,0.0,0.031746031746031744,True
+eastern-ok,fire,29,1,369,0,0.034482758620689655,0.0,True
+eastern-wa,ems,1,0,29,2,0.0,0.06896551724137931,False
+eastern-wa,fire,9,0,113,2,0.0,0.017699115044247787,True
+maricopa-az,ems,5,0,42,5,0.0,0.11904761904761904,True
+maricopa-az,fire,22,0,352,4,0.0,0.011363636363636364,True
+northern-ca,ems,2,0,20,3,0.0,0.15,False
+northern-ca,fire,27,0,197,3,0.0,0.015228426395939087,True
+south-central-tx,ems,70,8,336,41,0.11428571428571428,0.12202380952380952,True
+south-central-tx,fire,89,0,1495,17,0.0,0.01137123745819398,True

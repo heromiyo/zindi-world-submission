@@ -1,0 +1,579 @@
+id,GEOID,name,primary,operating_status,src,region,lon,lat,ur_class,tribal,aiannh_name,ems_count,pop_total,svi_overall
+b68e3991-d640-4392-8f3c-a44b157878bd,48091310703,"Bulverde Spring Branch Fire and EMS, Station 3",fire_department,open,meta,south-central-tx,-98.42018185,29.74819357,Rural,False,,0.0,9528,0.1686
+9b625ab4-9682-4b20-9334-dabc0ac9d223,48091310901,New Braunfels Fire Station 4,fire_department,open,meta,south-central-tx,-98.174807798839,29.721666768279,Rural,False,,0.0,9011,0.2951
+b9bfabbf-d256-4f70-b83a-0827038b1362,48453036600,Lake Travis Fire Rescue Station 603,fire_department,open,meta,south-central-tx,-97.94700983,30.30720568,Rural,False,,0.0,8848,0.2316
+68790191-1cd4-4bb7-9db3-86b4d3b9d363,06035040400,Litchfield Town Standish Litchfield Fire Department,fire_protection_service,open,meta,northern-ca,-120.45458,40.37148,Rural,False,,0.0,8786,0.3414
+055ae6a7-9831-4f4c-a782-180ce039aa2a,04013050621,Buckeye Fire Department Station 705,fire_department,open,meta,maricopa-az,-112.70916691,33.48431658,Rural,False,,0.0,8644,0.458
+cc5dc828-d5b0-45a1-a0aa-fe325ab17a51,48209010912,Buda Fire Department Station 3,fire_department,open,meta,south-central-tx,-97.87910917,30.09688882,Rural,False,,0.0,8414,0.0361
+20422227-2af0-41f9-aa5a-bfd50145ae9a,48325000103,Castroville Volunteer Fire Dept,fire_protection_service,,meta,south-central-tx,-98.88521,29.35679,Rural,False,,0.0,8031,0.4884
+496894d9-fdf9-4626-ab5d-acbcea25915b,48055960103,Travis County Fire Rescue Station 1107,fire_department,,meta,south-central-tx,-97.62677332,29.99331637,Rural,False,,0.0,7993,0.7568
+f919f6fc-bd9b-45a1-973c-e1021f90f825,48085031201,Josephine Volunteer Fire Department,fire_department,,meta,south-central-tx,-96.31072558,33.06159119,Rural,False,,0.0,7895,0.2148
+78a8b813-991b-46af-bb89-67176f05d6e2,48021950303,PHI Air Medical Cedar Creek,medical_service_organizations,open,meta,south-central-tx,-97.45117218,30.13109896,Rural,False,,0.0,7638,0.512
+a28b9109-e59f-4c58-ba82-c025c9628838,48257050802,Kaufman County ESD 7,fire_department,open,meta,south-central-tx,-96.45525037,32.62855342,Rural,False,,0.0,7372,0.4086
+a7d62a24-12d8-421b-bce6-8e4657b64d49,48181001901,Gunter Volunteer Fire & Rescue,fire_protection_service,,meta,south-central-tx,-96.747665,33.448554,Rural,False,,0.0,7316,0.2233
+3dbcee59-3388-4ce3-9e1d-4180a504c449,48423001404,Lindale Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.40783969,32.51611791,Rural,False,,0.0,7268,0.4649
+cabb36ef-84f0-4c86-b0e0-ee14db635b30,48423001915,Bullard Fire Department,fire_department,open,meta,south-central-tx,-95.31986141,32.13871995,Rural,False,,0.0,7266,0.337
+d42c6166-556c-474f-a4fc-22083ca1f38e,48157675600,Fairchild Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.77656793,29.43276144,Rural,False,,0.0,7262,0.7789
+ffabbd34-bd5b-4672-ab97-a16f8f3e24a3,48029131802,Bexar County ESD 10 Station 1,fire_department,,meta,south-central-tx,-98.35903918,29.41959824,Rural,False,,0.0,7232,0.6361
+b11aaa06-4c06-4af2-9fce-cae147454685,06103001000,Capay Fire Department,fire_protection_service,open,meta,northern-ca,-122.08510136,39.79910164,Rural,False,,0.0,7139,0.855
+7ac8aecd-9140-4b77-9990-61f4151bfdc7,48181001801,Howe Fire Rescue,fire_department,,meta,south-central-tx,-96.61191392,33.50569326,Rural,False,,0.0,7108,0.7253
+ff6fb09f-cad1-42db-84e1-71b692ef157c,48441013502,Jim Ned Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-99.80519328,32.21125896,Rural,False,,0.0,7032,0.2265
+d72a2119-164e-415c-bb3e-429a0809223a,06105000500,Hyampom Volunteer Fire Department,fire_protection_service,open,meta,northern-ca,-123.456988,40.616944,Rural,False,Round Valley Reservation,0.0,7007,0.8468
+dd80d184-ea3c-4dba-bce7-ad69b1499076,48423002200,Whitehouse Volunteer Fire Department,fire_department,,meta,south-central-tx,-95.19369989,32.17923893,Rural,False,,0.0,6949,0.4732
+f28f6e77-246a-477d-bc8e-41c7fe16f655,48231961600,"Emergency Room Quinlan, Tx",hospital,,meta,south-central-tx,-96.12109515077,32.90442997192704,Rural,False,,0.0,6841,0.7403
+f1babd45-f1ef-45a0-ad28-ed60e3095c4b,48029152100,Atascosa-Bexar County Line Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-98.49730722,29.1477663,Rural,False,,0.0,6829,0.9078
+f050d432-22b2-4c05-abc0-8140921a4dae,40027202301,Oklahoma City Fire Station 29,fire_department,open,meta,eastern-ok,-97.38122332,35.30505675,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,6821,0.1724
+3ce5c4e0-0262-4f29-b100-d9c70680af64,48021950805,812 Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-97.542545,30.02471,Rural,False,,0.0,6745,0.6855
+5073ad23-a22f-4804-9cf1-51f6b0097a87,48039662100,Brazoria County Fire Fighters,fire_protection_service,open,meta,south-central-tx,-95.45717083,29.18267989,Rural,False,,0.0,6575,0.6912
+ef3c1eba-3ad7-4b3a-bd9c-99e7fae638c1,48257051301,Mabank Fire Department,fire_department,open,meta,south-central-tx,-96.10000173,32.3653892,Rural,False,,0.0,6469,0.7859
+f86380ed-20e6-4e1a-818f-d21d0721bd15,06061020200,Iowa Hill Fire Station,fire_department,open,meta,northern-ca,-120.85775854,39.10987101,Rural,False,,0.0,6429,0.3413
+c69ae64f-2217-4566-9e21-34c11f5f0a80,48367140709,Aledo Fire Department station 3,fire_department,open,meta,south-central-tx,-97.64585,32.6759,Rural,False,,0.0,6416,0.0368
+5944e4dc-67a8-45b3-89bc-98d8f1ecba0b,48349970701,Corsicana Fire Department Station 2,fire_department,open,meta,south-central-tx,-96.4543377,32.0953744,Rural,False,,0.0,6376,0.8568
+e6a8398a-fd29-41fa-af8b-54a8879120aa,40031002301,Chattanooga Fire Department,fire_department,,meta,eastern-ok,-98.66010042,34.42261671,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,6374,0.2729
+ff0ee905-e95e-4c46-91f0-e3d934b29dec,04013040539,Circle City-Morristown Fire Department,fire_department,open,meta,maricopa-az,-112.6199358,33.85544688,Rural,False,,0.0,6356,0.4609
+abdf9f4d-61f8-4562-acc9-0089353c08fc,48085030202,Weston Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.66858192,33.34673351,Rural,False,,0.0,6345,0.1207
+a781f901-fb1c-4bfd-a0ff-7da35ebdf562,40051000902,Tuttle Fire Department,fire_department,open,meta,eastern-ok,-97.80970986,35.29058113,Rural,True,Chickasaw OTSA,0.0,6316,0.5249
+aaa8a575-8d56-460c-bff6-c29e9964b164,04019004425,Picture Rocks Fire District Station No. 121,fire_department,open,meta,maricopa-az,-111.21697848,32.3386029,Rural,False,,0.0,6305,0.3983
+947de808-f070-4128-8b45-f820b273491e,48097000100,Callisburg Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-97.01131412,33.69964215,Rural,False,,0.0,6291,0.6549
+292a017e-b848-4ef8-b771-056bc4cc7d79,40009966800,Sayre Fire Department,fire_department,,meta,eastern-ok,-99.63997,35.29263,Rural,True,Cheyenne and Arapaho OTSA,0.0,6269,0.7477
+0c9e5f01-5286-4ee2-9292-d6f9df94d29a,06061021304,Placer County Fire Department Station 78,fire_department,open,meta,northern-ca,-121.37539233,38.9800613,Rural,True,Auburn Off-Reservation Trust Land,0.0,6258,0.1868
+80b24610-68b8-4542-8ba3-415e956c074e,48029141900,Lone Oak Vol Fire Department,fire_protection_service,,meta,south-central-tx,-98.25164612029364,29.366946543749567,Rural,False,,0.0,6234,0.6459
+a0fe234d-886e-4438-85a5-ff1302d3ab3f,06007001400,Butte County Fire Station 41,fire_department,,meta,northern-ca,-121.90850754,39.80445705,Rural,False,,0.0,6143,0.2171
+91a0ce4b-0c50-4a29-9260-ac8682cee1d4,48231960700,Lone Oak Fire Department,fire_department,,meta,south-central-tx,-95.94010606,32.99647046,Rural,False,,0.0,6091,0.3767
+74be9453-7abd-4931-ad65-22a0613e7e88,04023966111,Rio Rico Fire District,fire_protection_service,open,meta,maricopa-az,-110.93472164,31.43580107,Rural,False,,0.0,6011,0.6091
+f1109a04-2515-4fe1-828a-e1e021e3e76c,48467950400,Rolling Oaks Fire Department,fire_department,open,meta,south-central-tx,-96.05352649,32.82881017,Rural,False,,0.0,5980,0.3102
+f7ad2754-9b76-40e3-a2d2-cfdff4982398,48251130212,Johnson County ESD #1 Station 83,fire_department,open,meta,south-central-tx,-97.42526991,32.48666437,Rural,False,,0.0,5888,0.6714
+92e3a06b-19c0-4573-9c78-73cfbdf763df,48423002102,Arp Volunteer Fire Department,fire_department,,meta,south-central-tx,-95.05829985,32.22438122,Rural,False,,0.0,5870,0.4707
+576ebb6d-4f80-414a-8314-ef3d5bbcc6dd,48325000401,Natalia Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.86011811,29.19107208,Rural,False,,0.0,5857,0.7644
+85354ad6-8b5c-40de-a5f9-440acf35bc58,48367140408,La Junta Fire Department,fire_department,open,meta,south-central-tx,-97.6080649,32.9241349,Rural,False,,0.0,5820,0.2985
+52964c24-695f-49c5-a733-c2f931a05c8c,40037021500,Mounds Fire Department,fire_department,open,meta,eastern-ok,-96.06089992,35.87319703,Rural,True,Creek OTSA,0.0,5791,0.5288
+35ebf620-4e7e-4605-a98a-7bf3a773bff6,06113011500,Madison Fire Protection District,fire_department,open,meta,northern-ca,-121.97176975,38.6802203,Rural,False,Rumsey Indian Rancheria,0.0,5709,0.7196
+ceabd840-7336-4439-bbac-4798d27239a8,48251130100,Bono VFD - Station 70,fire_protection_service,open,meta,south-central-tx,-97.49492342,32.31437483,Rural,False,,0.0,5661,0.3145
+c37fb508-5c89-45e3-88ff-e77915f640ef,48451001600,Mereta Volunteer Fire Department,fire_department,,meta,south-central-tx,-100.13754,31.45558,Rural,False,,0.0,5653,0.3797
+097fd183-a533-40df-be2f-50f9dd33534d,48471790103,Riverside Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.40057198,30.85205968,Rural,False,,0.0,5642,0.6635
+f006f0eb-2b39-430f-85ab-e0242a682727,40027202403,Norman Fire Station 6,fire_department,open,meta,eastern-ok,-97.32991938,35.21986502,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,5637,0.222
+082a3594-8cf3-4e43-8b14-4e62f9b19583,06089012200,Cottonwood Fire Protection District,fire_department,open,meta,northern-ca,-122.2790383,40.38913921,Rural,False,,0.0,5579,0.3315
+246ef13c-dd09-4291-963a-27f6c3648a7a,48491020900,Williamson County ESD #10,fire_protection_service,,meta,south-central-tx,-97.38901903,30.46017155,Rural,False,,0.0,5573,0.5429
+5905c58d-706b-4b82-8e84-ffbb8454ccfd,04005001302,Summit Fire District Station 31,fire_department,open,meta,maricopa-az,-111.46564013,35.23075556,Rural,False,Navajo Nation Off-Reservation Trust Land,0.0,5547,0.1901
+b24872a3-393d-4e2f-9f59-57e234bc6c89,48293970600,Groesbeck Fire Department,fire_department,open,meta,south-central-tx,-96.541798,31.525533,Rural,False,,0.0,5546,0.8014
+c338c9f8-659f-4486-8462-2ac5a9c83353,04007940400,San Carlos Fire Department,fire_department,,meta,maricopa-az,-110.4519995,33.35455687,Rural,True,San Carlos Reservation,0.0,5531,0.9295
+ea8dba42-0daa-4030-a2f5-a49cb927c523,40119011101,Glencoe Fire Department,fire_department,open,meta,eastern-ok,-96.92736628,36.22779665,Rural,False,,0.0,5507,0.4544
+530d26c3-8375-408f-99dd-54c86fbfdefa,06007001500,Butte County Fire Station 45,fire_department,open,meta,northern-ca,-121.8001812,39.6438032,Rural,False,,0.0,5504,0.426
+ea289852-b4c4-4450-9e76-ba4cc9d577a6,40037020706,Basin Fire Department,fire_department,,meta,eastern-ok,-96.35168,36.15469,Rural,True,Creek OTSA,0.0,5498,0.6764
+cefe3077-9a66-4c46-88af-06a278737df8,48309004000,Crawford Fire Department,fire_department,,meta,south-central-tx,-97.44395,31.53193,Rural,False,,0.0,5483,0.2552
+bb4ef375-34b2-459e-b05f-da8d17b25220,48029182103,Grey Forest Volunteer Fire Department,fire_department,,meta,south-central-tx,-98.68522198,29.61478185,Rural,False,,0.0,5481,0.213
+4ffe73e7-70af-4b2f-88d6-471b39f4e7de,06089012302,Happy Valley Fire Department,fire_department,open,meta,northern-ca,-122.4095068,40.4464137,Rural,False,,0.0,5426,0.5277
+3f3aad98-e18d-4e8f-8bc5-601cf147b664,06011000100,Sacramento River Fire Protection,fire_protection_service,open,meta,northern-ca,-121.8956757,39.07335436,Rural,False,,0.0,5389,0.6377
+6f93052a-4ed2-439b-a734-7c8e8fb7a8eb,48423001806,Chapel Hill Fire Department,fire_department,,meta,south-central-tx,-95.17865047,32.30934188,Rural,False,,0.0,5375,0.89
+04a667b6-49e7-4124-bb3b-1ce43af0673a,40019892502,Criner Hills Volunteer Fire Department Station #1,fire_department,open,meta,eastern-ok,-97.19564609,34.07106581,Rural,True,Chickasaw OTSA,0.0,5360,0.387
+bcb63a62-27b1-4141-a179-52f6499d8bf2,48287000100,Blue Branch Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.14042423,30.39281902,Rural,False,,0.0,5344,0.3303
+31e2ec04-d9c3-4d71-9da1-81a3173ac413,48367140502,Adell-Whitt Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-98.01935136,32.95653953,Rural,False,,0.0,5344,0.3754
+7812c7f6-cd2a-4c8f-9ace-caac4288423e,48021950506,"Bastrop County ESD No. 2, Station 4",fire_department,open,meta,south-central-tx,-97.31393191,30.20006638,Rural,False,,0.0,5340,0.7328
+3db7f50c-cce1-4a7c-ba0c-b206549a440a,48231961402,Caddo Mills Fire Rescue,fire_department,open,meta,south-central-tx,-96.22895543,33.06628863,Rural,False,,0.0,5323,0.3505
+c584acca-787f-4131-8f05-0216a55576e3,48097000900,Era Volunteer Fire Department,community_services_non_profits,open,meta,south-central-tx,-97.288363,33.495787,Rural,False,,0.0,5313,0.2864
+33baace6-567c-489e-996a-8c4794faa8dd,40021977600,Lowrey Volunteer Fire Department,fire_department,open,meta,eastern-ok,-94.95851738,36.03478565,Rural,True,Cherokee OTSA,0.0,5307,0.7244
+df46e696-52db-4038-8cd0-9e02b50571a5,40013796002,Calera Fire-Rescue,fire_department,,meta,eastern-ok,-96.42861221,33.93484809,Rural,True,Choctaw OTSA,0.0,5305,0.696
+965d8522-fc87-44de-a0dc-7876792c9fc2,06063000100,Quincy Fire Department,fire_protection_service,open,meta,northern-ca,-120.94797671,39.93771894,Rural,False,,0.0,5271,0.635
+92315efe-f616-4cb4-8bf5-69ee4b572e28,48309003402,CBluff VFD,fire_protection_service,,meta,south-central-tx,-97.14214,31.6484,Rural,False,,0.0,5262,0.5572
+335c7305-4496-4c52-b2e4-dae109134911,48253020500,Hawley Volunteer Fire Department,fire_department,open,meta,south-central-tx,-99.81232067,32.61375016,Rural,False,,0.0,5261,0.4652
+59db3381-b17b-4249-b55a-ab35c4237c3e,48185180102,Todd Mission Volunteer Fire,fire_department,open,meta,south-central-tx,-95.83075811983846,30.26035479287181,Rural,False,,0.0,5235,0.7788
+5a2c6d42-2d88-4e97-907c-273a376ffecc,48039664501,Rivers End Fire Department Station 2,fire_department,,meta,south-central-tx,-95.5505673,28.93451084,Rural,False,,0.0,5225,0.7701
+4fd1bf07-a63c-433a-86dd-00fb32e063b6,48055960102,Dale Volunteer Fire Dept. (DVFD),fire_department,,meta,south-central-tx,-97.56453655,29.9264398,Rural,False,,0.0,5225,0.6799
+b28feda5-3f63-4f1a-8bfd-0016a001ae13,48181000101,Bells Fire Department,fire_department,open,meta,south-central-tx,-96.4092739,33.61017695,Rural,False,,0.0,5207,0.6433
+6f73b70f-9282-459b-977d-d19e536cb453,40123088600,Francis Fire Department,fire_department,,meta,eastern-ok,-96.59498128,34.87289144,Rural,True,Chickasaw OTSA,0.0,5205,0.5182
+4c196ee6-7d49-40cc-9c91-9674ad1b1796,48177000200,Belmont Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.68828177,29.52458794,Rural,False,,0.0,5152,0.8455
+5a26cc78-4be8-432b-bd6c-bf1c6ceb22e3,40143009500,Keystone Fire Department,fire_department,open,meta,eastern-ok,-96.27754016,36.1050556,Rural,True,Creek OTSA,0.0,5140,0.3842
+0f6baecb-ced8-4fb9-b9a4-14bc3067361f,48347950200,Lilbert-Looneyville Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-94.900526,31.736374,Rural,False,,0.0,5123,0.4891
+6f23a885-80c8-401b-9c93-73bdc86490c5,48139061700,Telico Volunteer Fire Department,fire_department,,meta,south-central-tx,-96.50857296,32.3721549,Rural,False,,0.0,5121,0.488
+73087dd9-b8ab-43cd-bef3-797a356701b0,48467950300,Edgewood Fire Department,fire_department,open,meta,south-central-tx,-95.87583383,32.69325092,Rural,False,,0.0,5112,0.372
+9a09bbcf-dd6b-4be3-a075-96b5972c8b6d,48001950902,Palestine Fire Department,fire_department,,meta,south-central-tx,-95.60350512,31.74031669,Rural,False,,0.0,5090,0.6404
+39f0f559-81a7-4ab0-a95a-2c6efc0d0e79,48467950901,The Cole Place II,farm,,meta,south-central-tx,-95.66695,32.40171,Rural,False,,0.0,5065,0.3474
+9bd36902-dcb6-4cef-a235-308280698e51,48015760302,Austin County Emergency Services District No.2,fire_protection_service,,meta,south-central-tx,-96.16331478832971,29.768639570496262,Rural,False,,0.0,5043,0.9148
+cd2d8f3e-bae8-4180-986c-da32b61ecbe3,48097000200,Cooke County EMS Station 4,fire_department,,meta,south-central-tx,-97.34336603,33.65064088,Rural,False,,0.0,5036,0.2836
+e1162e22-0f84-4cc8-8940-817b4e2a6d7d,40017300702,City of El Reno Fire Department,fire_department,open,meta,eastern-ok,-97.959544,35.50764094,Rural,True,Cheyenne and Arapaho OTSA,0.0,5034,0.5574
+cddefa42-79f5-4eb4-bd7d-70dcce97735c,40085094200,Shady Dale Volunteer Fire Department,fire_department,open,meta,eastern-ok,-97.14294716,33.88531096,Rural,True,Chickasaw OTSA,0.0,5027,0.6355
+e97573e1-e992-407f-a76b-0f0523e7f3f7,40135030202,Pafford EMS - Vian Station,emergency_roadside_service,open,meta,eastern-ok,-94.96776569,35.4980084,Rural,True,Cherokee OTSA,0.0,5026,0.9204
+c72caa02-f547-44cb-88b7-d2adebe1b6ec,48313000400,Madisonville Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.89604509,30.9575648,Rural,False,,0.0,5020,0.854
+d80b5d0d-3249-455e-9953-0bcdbf6c2e68,40137001100,Loco Fire Department,fire_department,,meta,eastern-ok,-97.67722178,34.32928322,Rural,True,Chickasaw OTSA,0.0,5011,0.6157
+ebede5d4-a4bf-452a-88b5-d2cf85d7720d,40123089598,Oil Center Fire Department,fire_department,,meta,eastern-ok,-96.82500954,34.86702895,Rural,True,Chickasaw OTSA,0.0,5006,0.365
+df526a07-1159-4fc9-acbe-3f26ab61642e,40137000800,Empire Volunteer Fire Department,fire_protection_service,,meta,eastern-ok,-98.03085,34.46371,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,5006,0.5098
+29d7bcaf-a116-4a10-ad84-90970067abec,48181001802,Tom Bean Fire Department,fire_department,,meta,south-central-tx,-96.48500888,33.52074448,Rural,False,,0.0,4991,0.3238
+853f2091-6984-407b-ad98-ee8f8c8b688d,48497150603,Newark Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.4855711,33.00168879,Rural,False,,0.0,4990,0.726
+ab55b109-8008-4725-93bf-6f6f955a6b4c,48209010817,North Hays County Fire Department,fire_department,open,meta,south-central-tx,-98.09701572,30.19600436,Rural,False,,0.0,4964,0.3058
+c66532c0-85a5-4c54-b490-5ef7f510c77a,40031002302,Indiahoma Fire Department,fire_department,,meta,eastern-ok,-98.75708942,34.61969435,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,4939,0.579
+9ac92778-8ac7-4821-90f8-d0df5ff425a3,40087400203,Washington Fire and Rescue,fire_department,open,meta,eastern-ok,-97.48360212,35.06098177,Rural,True,Chickasaw OTSA,0.0,4925,0.65
+cf1b2537-3955-4516-b60a-6b0ce5fc07dc,48039661501,Point Evrgrn Anml Rescue & Eqne,pet_services,,meta,south-central-tx,-95.383357,29.464839,Rural,False,,0.0,4912,0.8008
+a83d6465-1e2e-4ac0-a06b-6aea0b5d7ee7,06089011900,Palo Cedro Fire Station,fire_department,,meta,northern-ca,-122.23895409,40.56113965,Rural,False,,0.0,4910,0.2933
+6b9e7028-0bc0-4a04-bb05-f0c4fd699336,48497150605,Wise County ESD 1,fire_protection_service,,meta,south-central-tx,-97.56489719,33.07187106,Rural,False,,0.0,4901,0.5042
+268918ef-eb14-4001-8c6d-2e18d16e79fa,06063000300,Portola City Fire Department,fire_department,open,meta,northern-ca,-120.47020485,39.80528905,Rural,False,,0.0,4897,0.7187
+3beb9383-8ae9-4656-aaf3-111fca1d576e,48225950700,Lovelady Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-95.44598280093805,31.126842904337153,Rural,False,,0.0,4887,0.7424
+25f14110-fb69-4fa1-8ebf-d24b2cd98cd8,40119011400,Cushing Fire Department,fire_department,open,meta,eastern-ok,-96.77429294,35.98512136,Rural,True,Sac and Fox OTSA,0.0,4884,0.7407
+917e3469-3f70-4dc5-940d-76b13e80696a,40051000802,Naples Station - Grady County Fire Department,fire_department,,meta,eastern-ok,-97.759352369228,35.045894173263,Rural,True,Chickasaw OTSA,0.0,4876,0.3368
+190d3403-b998-491a-b9e3-1d997ae0c836,48089750400,Frelsburg VFD,fire_department,open,meta,south-central-tx,-96.54483514,29.86291095,Rural,False,,0.0,4875,0.6075
+ea232c26-3d03-44b9-942d-a3f4a33fd547,40153953200,Sharon Oklahoma Fire Department,central_government_office,open,meta,eastern-ok,-99.339545,36.275777,Rural,False,,0.0,4867,0.5727
+dcfcfe46-5e6c-47f8-85bd-05323b52fdaa,48379950200,East Tawakoni Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-95.96129727,32.90772788,Rural,False,,0.0,4847,0.6086
+80e0beee-50fb-405d-8588-eca3aaebfa1d,48061010301,Santa Rosa Fire Department,fire_department,,meta,south-central-tx,-97.82922815,26.2582624,Rural,False,,0.0,4834,0.9782
+a7228ef0-cd67-4f51-9c4b-a4432d97d9fd,40121486000,Fire Department,fire_department,open,meta,eastern-ok,-95.71556071,34.92831254,Rural,True,Choctaw OTSA,0.0,4826,0.5231
+8d29d397-7abb-438d-b946-02ef8c596424,48089750300,Oakridge Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.67557767,29.56622464,Rural,False,,0.0,4773,0.7264
+c301d702-9ef0-4cf0-8a99-9f6a9bda007f,04001970502,Vernon Fire District,fire_protection_service,open,meta,maricopa-az,-109.6928251,34.2550877,Rural,True,Fort Apache Reservation,0.0,4767,0.6611
+87fad9f0-8d79-4d35-9771-0f45a9e33468,48063950200,Camp County EMS,medical_service_organizations,open,meta,south-central-tx,-94.96637962,32.99573128,Rural,False,,0.0,4760,0.9359
+176e206e-6bb4-4df9-ae97-841727429430,48039662900,Brazoria Fire Department,fire_protection_service,open,meta,south-central-tx,-95.57021126,29.04609984,Rural,False,,0.0,4757,0.8533
+5117ea0b-791c-44f0-9bd2-776c4c5e15dd,48339694502,Montgomery County ESD#3,fire_protection_service,open,meta,south-central-tx,-95.59258496,30.27372492,Rural,False,,0.0,4750,0.1284
+02fb834f-2b80-4559-b861-84c149505277,48467950700,Hope Center,maternity_centers,open,Microsoft,south-central-tx,-95.8497198,32.546261,Rural,False,,0.0,4749,0.7512
+541ce317-74ee-4a38-be32-c76649655c07,04003002100,Palominas Fire District Station 3,fire_department,open,meta,maricopa-az,-110.22552105,31.38404342,Rural,False,,0.0,4734,0.2776
+fe3b2db2-2e21-4da5-81ea-54d64c05cac6,40081961402,Southwest Lincoln County Fire Protection District,fire_department,open,meta,eastern-ok,-97.11600977,35.56480994,Rural,True,Kickapoo OTSA,0.0,4726,0.4196
+be167e68-f091-45a7-abb1-9629160155e5,48133950202,Eastland Fire Department,fire_department,open,meta,south-central-tx,-98.81796839,32.39867445,Rural,False,,0.0,4723,0.7808
+3f6cc430-85be-4de4-8fc4-5fd867a09cd8,48019000101,Bandera Fire and Rescue,fire_department,,meta,south-central-tx,-99.0728478,29.72602009,Rural,False,,0.0,4705,0.7846
+fe43f380-70e2-4bcd-878b-93d0910a57f6,06103000300,TCFD Station 13 - Rancho Tehama,fire_protection_service,open,meta,northern-ca,-122.40035,40.015391,Rural,False,,0.0,4682,0.717
+8dce4c24-a65a-4ec9-afb1-85b21aa4c3a8,48463950202,Alsace Urgent Care- Uvalde,emergency_room,open,meta,south-central-tx,-99.754918,29.232712,Rural,False,,0.0,4679,0.9928
+fc062b30-ed8e-4f0b-a390-58b99f50ea06,48217960200,White Bluff Volunteer Fire,fire_department,open,meta,south-central-tx,-97.39931901,32.02901999,Rural,False,,0.0,4674,0.3604
+94bf7f51-7b25-4561-948b-09ea1cc68b1c,48349970400,Frost Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.80773731,32.0790775,Rural,False,,0.0,4671,0.4564
+8a93e9cb-8106-4fe3-86d5-5692f026e4d6,06103000100,Manton Volunteer Fire Department,fire_protection_service,,meta,northern-ca,-121.87098,40.43548,Rural,False,,0.0,4670,0.769
+0626d89d-6f65-4353-b89c-153b7ffccb09,48147950701,Leonard Fire Department,fire_department,open,meta,south-central-tx,-96.24802463,33.38054145,Rural,False,,0.0,4649,0.6599
+b4985f58-de34-4959-91f9-adbacfeb26e6,48001950100,Elmwood VFD,fire_department,,meta,south-central-tx,-95.63736,31.93033,Rural,False,,0.0,4641,0.7862
+c516bd8c-efca-446a-bf5a-794b7ec28e40,48467950801,City of Van Fire Department,fire_department,,meta,south-central-tx,-95.63730602,32.52384455,Rural,False,,0.0,4639,0.6751
+54dccb26-4630-49e0-a36d-97971ba741bf,48053960101,Northeast Burnet County Fire main station,fire_department,open,meta,south-central-tx,-97.9149207,30.87009696,Rural,False,,0.0,4639,0.6613
+d3e73b91-f62f-43fd-9bc8-839a0d8a4037,48277000101,Lamar Point Caviness Emberson Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-95.612907,33.758644,Rural,False,,0.0,4639,0.5009
+32c23f0c-0132-4f55-b72d-357a0bee5cbf,48473680303,Rolling Hills Volunteer Fire Department,fire_department,,meta,south-central-tx,-96.01990856,30.16905664,Rural,False,,0.0,4632,0.7109
+71ec5448-d61a-4397-b1ad-42869394feba,40079040102,Pocola Fire Department,fire_department,open,meta,eastern-ok,-94.47851973,35.25848966,Rural,True,Choctaw OTSA,0.0,4632,0.7606
+1d6270ae-6f06-4a6f-a972-288c5c5ee1fa,48257050602,Ables Springs Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.133195,32.813168,Rural,False,,0.0,4629,0.504
+1a807f67-053c-4d62-abb4-357e7178e5c9,48231960300,Celeste Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.19526914,33.29343448,Rural,False,,0.0,4602,0.676
+34ae88cf-f9c1-41bc-8244-725c8d92c09f,48027021502,Bell County Communications Center,public_service_and_government,open,meta,south-central-tx,-97.477726,31.045712,Rural,False,,0.0,4594,0.7518
+abadb478-0c36-4e06-aad7-add2b23cb82e,48395960300,Easterly Volunteer Fire Department ,fire_department,,meta,south-central-tx,-96.3799,31.106,Rural,False,,0.0,4592,0.6029
+ccb31f74-0704-4553-95a1-06c380c37dc4,04013050603,Tonopah Valley CERT,community_services_non_profits,,meta,maricopa-az,-112.839062,33.408991,Rural,False,Tohono O'odham Nation Reservation,0.0,4592,0.6589
+73e6fa25-71ae-42df-8f40-fa326f6f5b26,48355005406,HALO-Flight,community_services_non_profits,open,meta,south-central-tx,-97.55280449,27.71831355,Rural,False,,0.0,4585,0.4756
+dfb76493-965a-4736-9fb4-fcb9880324a0,48171950200,Harper Fire Department,fire_department,open,meta,south-central-tx,-99.24202252,30.30148464,Rural,False,,0.0,4578,0.4794
+45a39727-d1cd-4c9c-94af-52e6bc5ac53f,04019004313,Three Points Fire District Station 303,fire_department,open,meta,maricopa-az,-111.31958746,32.06292481,Rural,False,,0.0,4529,0.6087
+d51e12a9-6046-40f2-bec3-a3279b8fef04,48497150607,New Fairview Fire Rescue,fire_department,open,meta,south-central-tx,-97.44331,33.09868,Rural,False,,0.0,4525,0.6049
+93c76fbd-8e81-466d-8b06-5b8b9696441b,48497150403,Paradise Fire Department,fire_department,open,meta,south-central-tx,-97.68778149,33.1510504,Rural,False,,0.0,4519,0.3967
+76339dd4-64a4-4302-8e2f-d829ddea20af,48401950502,Crims Chapel Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-94.80311464,32.26894999,Rural,False,,0.0,4510,0.7148
+96b513c2-3d84-4823-92b3-a792b80c19dc,04017963800,Taylor-Snowflake Fire & Medical,fire_department,open,meta,maricopa-az,-110.09827068,34.46939892,Rural,False,,0.0,4508,0.4172
+78b13b3b-b05e-41d6-ab86-f3be8c83d833,40101001200,Mountain View Volunteer Fire Department,fire_protection_service,open,meta,eastern-ok,-95.464962,35.726927,Rural,True,Creek OTSA,0.0,4504,0.668
+c7fce698-13be-49ae-b8d6-b743975fb8dd,48223950200,Cumby Fire Department,fire_protection_service,open,meta,south-central-tx,-95.83957101,33.13740212,Rural,False,,0.0,4493,0.4472
+5b5cecf6-55a1-46c2-94ee-3e88c6e98c21,48329010129,Greenwood Volunteer Fire Department,fire_department,,meta,south-central-tx,-101.89050545,32.01176076,Rural,False,,0.0,4491,0.357
+3e562c86-4bac-4bb0-8539-0283f95824c0,40031002102,Fletcher Fire Department,fire_department,open,meta,eastern-ok,-98.24664902,34.82635523,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,4489,0.4853
+fb37de8f-0216-4acc-9ec3-b1f29c2c8897,48213950700,Seven Points Fire-Rescue,central_government_office,open,meta,south-central-tx,-96.20505362119815,32.323416932143466,Rural,False,,0.0,4487,0.7646
+bd02dd25-efa5-41c0-ad9a-4ecac20c66f1,48041000205,Brazos County Precinct 4 Volunteer Fire Department Station 2,fire_department,,meta,south-central-tx,-96.4741574,30.72903813,Rural,False,,0.0,4486,0.9011
+bbf186e6-0dd3-4570-9051-81b2b2e1df65,48187210804,New Berlin Volunteer Fire Department,fire_department,,meta,south-central-tx,-98.10038443,29.46635401,Rural,False,,0.0,4481,0.4229
+5cac997a-78e5-417a-91ba-3f9104d36f30,40113940007,Prue Fire Department,fire_department,open,meta,eastern-ok,-96.2701399,36.25260527,Rural,True,Osage Reservation,0.0,4480,0.3786
+df0c15fc-c515-4973-989d-28eccc5dd71b,48029162004,Jarret Fire & Rescue,fire_department,,meta,south-central-tx,-98.671485,29.245631,Rural,False,,0.0,4477,0.8499
+5b0d4548-01a6-4bf6-b12c-46e74e2a9dc2,48309002900,Speegleville Fire Department,fire_department,open,meta,south-central-tx,-97.27055563,31.55111687,Rural,False,,0.0,4471,0.3871
+5aea1cb6-110d-47f3-ae83-a8c102ee25d7,48249950102,Orange Grove Fire Department,fire_department,open,meta,south-central-tx,-97.93938488,27.95599245,Rural,False,,0.0,4464,0.649
+603dfd16-2ad1-4949-9a09-5b8d216b5fcf,06061021902,Placer Hills Firefighters Association,fire_department,open,meta,northern-ca,-121.02249934,39.00075836,Rural,False,,0.0,4462,0.2495
+d9bcb51e-5fa0-489b-b8e9-d11c4405879f,48147950800,Telephone Fire Department,fire_protection_service,,meta,south-central-tx,-96.124947,33.763066,Rural,False,,0.0,4447,0.3207
+849b07eb-2272-4e7d-aa0a-db673047c302,48257050801,Scurry Fire Department,fire_department,open,meta,south-central-tx,-96.38259823,32.52067108,Rural,False,,0.0,4421,0.663
+8f64ad58-1bf0-4b34-955e-3cfce1594f8c,04025001502,Mayer Fire District,fire_protection_service,open,meta,maricopa-az,-112.18295103665088,34.37123240149211,Rural,False,,0.0,4416,0.6913
+78d77eab-6f90-431e-85e8-e18213b6c12a,48001951100,Bradford Volunteer Fire Department,fire_department,,meta,south-central-tx,-95.76719059,31.98737672,Rural,False,,0.0,4388,0.4012
+ab0f59b9-fd28-4eb3-bebc-7906c3f2d239,04013040538,Surprise Fire Department Station 304,fire_department,open,meta,maricopa-az,-112.410172,33.688303,Rural,False,,0.0,4385,0.2803
+849aacc8-7b32-4f29-895e-23a9d6dc7131,40125501104,Tecumseh Fire Department,fire_department,,meta,eastern-ok,-96.93796017,35.25780884,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,4380,0.6513
+af15920a-25c6-4b06-8aeb-85335816e8f0,48469001402,Raisin Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.14458284,28.72765018,Rural,False,,0.0,4377,0.4535
+b2f42889-0683-40d2-a67b-ce92057151dc,40083600700,Marshall Community Fire Department and Ambulance,fire_department,,meta,eastern-ok,-97.62496483,36.15395807,Rural,False,,0.0,4376,0.6224
+4d91da10-11cc-487b-8210-e2e0a68c3786,48027023404,Bartlett Volunteer Fire Department,fire_department,,meta,south-central-tx,-97.42987571890842,30.796126815699015,Rural,False,,0.0,4376,0.7147
+c71b7e76-8518-4a6c-983d-522bc91a6e7f,40135030105,Nicut Rural Fire Department,fire_protection_service,open,meta,eastern-ok,-94.559492,35.583946,Rural,True,Cherokee OTSA,0.0,4359,0.5033
+621a0054-111b-4732-a44a-a0342a061ac5,48053960600,Granite Shoals Fire Department,fire_department,open,meta,south-central-tx,-98.3738057,30.6073266,Rural,False,,0.0,4356,0.2834
+022f1718-6081-409c-8c62-00e224b241d6,48221160302,Lipan Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.04415526,32.51786619,Rural,False,,0.0,4349,0.5932
+c78c0e64-55d9-4691-a039-307274f15276,48309003500,Elk Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.93642766,31.6162054,Rural,False,,0.0,4348,0.5648
+72ec3aaa-4feb-472a-bd49-f7c327ff857f,06017030801,Rescue Fire Department,fire_department,open,meta,northern-ca,-120.95210198,38.71196145,Rural,False,,0.0,4347,0.2934
+e6722f97-e701-4fcd-905d-2b34e6fbc6dd,48499950602,Holly Lake Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.20332145,32.71401975,Rural,False,,0.0,4344,0.367
+da7e6980-1eb7-44c1-a2e8-92c9a58675fb,48459950302,Pritchett Fire Department Non Emergency,fire_department,,meta,south-central-tx,-95.02251,32.665421,Rural,False,,0.0,4310,0.4355
+4b261837-890f-4a22-a895-4e808f21b4d9,48265960800,Center Point Volunteer Fire Department,fire_department,open,meta,south-central-tx,-99.04335606,29.94451166,Rural,False,,0.0,4309,0.8122
+eb3ac20c-7a05-495a-86c8-f3c3acc6b09d,48085030102,Westminster Fire and Rescue,fire_department,open,meta,south-central-tx,-96.4593887,33.36341907,Rural,False,,0.0,4282,0.5761
+627acf54-470a-4f4a-a937-5e895ad70c5c,48171950100,Willow City Volunteer Fire & Rescue,fire_protection_service,open,meta,south-central-tx,-98.70393401,30.40093062,Rural,False,,0.0,4282,0.5491
+8a81e55b-e32b-42d7-9343-729518f2bf84,06057000900,North San Juan Fire Protection District,fire_protection_service,open,meta,northern-ca,-121.06518066,39.3531097,Rural,False,,0.0,4274,0.4633
+b4be83ea-db2d-40d7-811a-034fbb01974c,06045010200,Laytonville Fire Station,fire_department,open,meta,northern-ca,-123.48536251,39.68720452,Rural,False,Sherwood Valley Rancheria,0.0,4267,0.8207
+9eedffa8-a0ef-403e-b57d-d7ddf7c54dd4,40081961300,Wellston Fire Department,fire_department,open,meta,eastern-ok,-97.07004986,35.68851025,Rural,True,Kickapoo OTSA,0.0,4263,0.5432
+106ccb22-74bf-4ddd-a85a-4539014d384c,48493000500,Stockdale Ems,central_government_office,,meta,south-central-tx,-97.961284,29.239476,Rural,False,,0.0,4235,0.6918
+07b4388a-a484-4b43-83b5-907245e666f6,48251130603,Rio Vista Fire Department,fire_protection_service,open,meta,south-central-tx,-97.37720466,32.2322885,Rural,False,,0.0,4235,0.7389
+cd2a3b44-2a0c-46d1-8c55-ee75b7f9ffd6,40117957200,North 48 Fire Department,fire_department,open,meta,eastern-ok,-96.40415757,36.17946448,Rural,True,Pawnee OTSA,0.0,4223,0.4791
+f1d432ed-8856-4342-969e-47a5ee5ce09d,40131050405,Limestone Fire Station,fire_department,open,meta,eastern-ok,-95.77608008,36.32142224,Rural,True,Cherokee OTSA,0.0,4221,0.0635
+f276a4b0-3222-49b0-a679-ed281dec7d4b,48213950400,Southside Henderson County Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-95.896509,32.130952,Rural,False,,0.0,4215,0.798
+462374f5-1a12-498b-b34f-4fa914270f15,48265960304,Hunt Fire Department,fire_department,open,meta,south-central-tx,-99.33805708,30.07127148,Rural,False,,0.0,4202,0.3509
+aa4e0818-082d-459f-a66f-d6b2ebc3a39e,48423002101,Troup Fire Department Station 3,fire_department,open,meta,south-central-tx,-95.12835702,32.14380874,Rural,False,,0.0,4198,0.8295
+8ded0d37-ea87-4a6d-8758-441e90939693,48073950202,Lake Palestine East VFD,fire_department,open,meta,south-central-tx,-95.40849502,32.10849685,Rural,False,,0.0,4195,0.5556
+6f0cb0ee-c8ed-4802-858f-b38c734ecd0a,48051970300,Caldwell Fire Department,fire_department,open,meta,south-central-tx,-96.69426403,30.53380011,Rural,False,,0.0,4178,0.6813
+9e2d9c87-e58a-41ee-bcf1-ec298cc7f42b,04021001200,Regional Fire & Rescue Department,fire_protection_service,open,meta,maricopa-az,-111.65266016,32.93772596,Rural,False,,0.0,4173,0.8714
+89f429dc-ce4b-4e6b-b5be-0d6893874904,06089012701,Burney Fire Protection District,fire_protection_service,open,meta,northern-ca,-121.66756046,40.88214844,Rural,False,Pit River Trust Land,0.0,4154,0.7766
+244642f0-6d94-4e44-ac72-529f2927b349,06017030606,Georgetown Fire Department Station 61,fire_department,open,meta,northern-ca,-120.83892994,38.90663358,Rural,False,,0.0,4141,0.5057
+4aad1612-ef4b-4cc3-8193-0298daa6cd92,06093000901,Weed City Fire Department,fire_department,open,meta,northern-ca,-122.38181907,41.43199711,Rural,False,,0.0,4135,0.8669
+65edc0bf-5856-4a32-bfd0-cffb2e71d5a1,40005587700,Atoka Fire Department,fire_department,open,meta,eastern-ok,-96.12334153,34.38594569,Rural,True,Choctaw OTSA,0.0,4133,0.9265
+c3f8b9ec-a14a-4b09-ba91-e192550f1111,04025001202,Skull Valley Fire Department,fire_department,open,meta,maricopa-az,-112.68397957,34.50341695,Rural,False,,0.0,4127,0.1226
+6f8fcd95-f037-4f6d-96c9-4ec142b0cb0a,40121485800,Sam's Point Volunteer Fire,fire_department,open,meta,eastern-ok,-95.694489,35.194629,Rural,True,Choctaw OTSA,0.0,4125,0.6906
+ad663c62-0438-4f67-9fa3-b93afad48519,48059030200,Baird Fire Department,fire_department,open,meta,south-central-tx,-99.39423462,32.39344385,Rural,False,,0.0,4121,0.7095
+e39ede2a-afa0-48ec-843d-8e9c75166d11,48147950702,Trenton TX Fire Rescue,fire_department,open,meta,south-central-tx,-96.3437849,33.42984292,Rural,False,,0.0,4119,0.2215
+f087fb0b-ddff-400b-a1a1-394bc95a499a,48491021602,Weir Fire Department,fire_department,open,meta,south-central-tx,-97.58841038,30.68100151,Rural,False,,0.0,4118,0.3211
+3f69c9bc-0f55-4e86-a7c0-c101474177f1,06033001302,CAL FIRE Middletown Fire Station,fire_department,open,meta,northern-ca,-122.62030982,38.74812235,Rural,False,Middletown Rancheria,0.0,4113,0.8461
+010c9797-55cb-406e-ab66-38c8d7b4b553,48331950300,Black Jack Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-96.948443,30.569847,Rural,False,,0.0,4099,0.5074
+13f6a526-6b77-4d78-b867-63c54626ec0c,48499950601,Hawkins Fire Department,fire_department,open,meta,south-central-tx,-95.20065913,32.5878899,Rural,False,,0.0,4087,0.7285
+68e90ccc-c81c-4768-b947-743446abb2fb,48039663000,Brazoria Fire Department,fire_protection_service,open,meta,south-central-tx,-95.56797759,29.03587655,Rural,False,,0.0,4083,0.8131
+eeb5fe68-44ae-412e-9ce4-a60a7bc6e020,40135030101,Marble City Volunteer Fire Department,fire_department,,meta,eastern-ok,-94.82050131,35.58032064,Rural,True,Cherokee OTSA,0.0,4077,0.7543
+c031ccca-4451-4d33-ad8a-fb86da58f111,48171950500,City of Fredericksburg Ems,central_government_office,open,meta,south-central-tx,-98.88290491255214,30.25335621077562,Rural,False,,0.0,4076,0.8827
+93acf37c-34e8-4f8a-969c-b58651bd6244,40113940005,Black Dog Fire Department,fire_department,open,meta,eastern-ok,-96.05527297,36.23779499,Rural,True,Osage Reservation,0.0,4075,0.427
+afc8ba23-0943-4c44-9406-3766f8915cb4,48145000800,Marlin Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.87835054,31.31758623,Rural,False,,0.0,4070,0.5867
+b7ba4f3a-9e60-417c-b7f0-598fe3f9ab97,04021002200,Oracle Fire Department,fire_department,open,meta,maricopa-az,-110.78958692,32.61787236,Rural,False,,0.0,4068,0.3482
+51ee86c7-d384-47c1-8450-9999c1af0d27,40087400105,Newcastle Storm Shelter,public_service_and_government,open,meta,eastern-ok,-97.60194372,35.25561563,Rural,True,Chickasaw OTSA,0.0,4063,0.2663
+33236380-a156-430a-82e3-560cab3eafa4,48367140415,Silver Creek Volunteer Fire,fire_department,open,meta,south-central-tx,-97.63854618,32.8374301,Rural,False,,0.0,4063,0.4094
+0bcae24b-3636-4225-8493-d3f26f1f7f2e,48373210204,Livingston Fire Department,fire_department,open,meta,south-central-tx,-94.93383082,30.70922099,Rural,False,,0.0,4059,0.8886
+2c246483-48be-4500-8cad-02f484eaa297,48373210301,Onalaska Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.1111836,30.81357179,Rural,False,,0.0,4056,0.7188
+5aa384a1-5237-42b7-bc41-d6dea6e48e69,48175960100,Schroeder Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-97.21492982,28.81462377,Rural,False,,0.0,4054,0.6378
+f576767b-7d30-438a-8dbd-6700cbbb110a,06113011400,Knights Landing Fire Department,fire_department,open,meta,northern-ca,-121.72208459,38.79916882,Rural,False,,0.0,4052,0.9021
+bc1668bb-777e-4be1-8a6a-e9ed2002d03b,48099010102,Levita Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.89195,31.51945,Rural,False,,0.0,4036,0.5916
+30e56615-ee93-4135-a325-7200346f9ca6,48021950503,Heart of the Pines Fire Department,fire_department,open,meta,south-central-tx,-97.23473268,30.0719247,Rural,False,,0.0,4028,0.1556
+626878e0-eead-4baf-b20c-bbc8f11b2dd2,48223950302,Brinker Volunteer Fire Rescue,fire_protection_service,open,meta,south-central-tx,-95.49178737,33.12657754,Rural,False,,0.0,4011,0.6029
+d41d87c6-014f-4a77-85fe-50d2906ad6ae,48453035200,Pedernales Fire Department,fire_department,open,meta,south-central-tx,-98.05851503,30.40626786,Rural,False,,0.0,3999,0.3381
+625552cb-a350-4403-b1c9-fb8a37485d00,48367140504,Central Community Volunteer,fire_department,,meta,south-central-tx,-97.789803,32.90028,Rural,False,,0.0,3994,0.2308
+77d3ad2a-eaa0-4269-b8d5-6e961ca5394d,04025001402,Southern Yavapai Fire Department,fire_protection_service,open,meta,maricopa-az,-112.59303786,34.41779328,Rural,False,,0.0,3980,0.4671
+820b3a98-54c2-463e-b7a8-46f05f68053f,48027023406,Salado Fire Station,fire_department,,meta,south-central-tx,-97.53867105,30.96765352,Rural,False,,0.0,3978,0.2236
+dcd40ebf-8041-4d69-a1b7-c388ba5a3881,48407200104,Shepherd Volunteer Fire Department,fire_department,open,meta,south-central-tx,-94.9969559,30.49928028,Rural,False,,0.0,3974,0.8749
+1d2085cf-5f45-4051-8700-9e8eca8dbaef,40031002202,Wichita Mountain Estates Volunteer Fire Department,fire_protection_service,open,meta,eastern-ok,-98.43507632,34.72473987,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,3969,0.2064
+6feaffea-b7e0-4b68-8181-c891c88f0964,06093000300,Montague Fire Department,fire_protection_service,open,meta,northern-ca,-122.5259269,41.72710159,Rural,False,,0.0,3966,0.659
+8de75087-ae63-4576-b69d-4a37693db1c3,48367140604,Parker County ESD #6,fire_department,,meta,south-central-tx,-97.77407647,32.66044657,Rural,False,,0.0,3965,0.3744
+8791fd1e-b14e-4ee5-940f-86dc18af3b72,40115574800,Fairland Fire Department,fire_department,open,meta,eastern-ok,-94.8484262,36.74981218,Rural,True,Cherokee OTSA,0.0,3953,0.8396
+0c735c49-cfd4-43ee-aa6c-16bcc1ba47d4,48217961400,Hubbard Fire Department,fire_department,open,meta,south-central-tx,-96.79541899623113,31.8467436589226,Rural,False,,0.0,3943,0.9424
+23a136a1-fc18-4383-92b7-bcd5aa73d584,40101001401,Fort Gibson Fire Department,fire_department,open,meta,eastern-ok,-95.25201147,35.79775981,Rural,True,Cherokee OTSA,0.0,3938,0.7029
+091ba1d3-36e4-4392-9e10-359d13ca3e55,48149970500,Flatonia Fire & Rescue,fire_department,open,meta,south-central-tx,-97.11069398,29.6878591,Rural,False,,0.0,3930,0.7333
+9c69e3cb-a00a-4521-ae27-115bc63ac266,06103000800,Tehama County Fire Station 9,fire_department,open,meta,northern-ca,-122.16941414,40.07140347,Rural,False,,0.0,3905,0.7668
+997134f6-4c80-4816-b9e4-b562d9c5f957,48149970602,Schulenburg Fire Department,fire_department,,meta,south-central-tx,-96.9077407,29.6778982,Rural,False,,0.0,3904,0.8837
+b89a06e1-1da5-479f-85fa-b605f99cb7d1,48363000300,Brazos Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.11996361,32.6629082,Rural,False,,0.0,3894,0.4337
+281cec5c-0390-49cb-9755-be15b11c6ef3,40081961200,Merrick Volunteer Fire Department,fire_department,,meta,eastern-ok,-97.08267144,35.86999788,Rural,True,Iowa OTSA,0.0,3889,0.5818
+95917aa0-0111-4943-81eb-fc37d1b9ddd5,40047001200,Covington Fire Department,fire_department,,meta,eastern-ok,-97.58747683,36.30555446,Rural,False,,0.0,3885,0.3867
+bcfdf15c-0452-4a54-a898-21f69d9d4108,06093000701,Gazelle Fire Department ,central_government_office,open,meta,northern-ca,-122.52028,41.52235,Rural,False,Karuk Off-Reservation Trust Land,0.0,3884,0.6381
+2c0ee9af-0240-44d5-a656-6086e24a1537,48497150405,Sand Flat Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-97.8878187,33.27145114,Rural,False,,0.0,3863,0.8191
+8a314b6a-6ef3-41ed-8a6b-9af5740dab04,48099010101,Oglesby Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.50701464,31.41880687,Rural,False,,0.0,3856,0.6351
+d764f0b1-0c66-4790-95e0-06eecb056196,40115574100,Quapaw Fire Department,fire_department,open,meta,eastern-ok,-94.78848453,36.95428021,Rural,True,Quapaw OTSA,0.0,3855,0.7494
+2cef3d70-8d84-4690-adc3-bea064daebd8,40133583600,Wewoka Fire Department,fire_department,open,meta,eastern-ok,-96.49360857,35.15275469,Rural,True,Creek/Seminole joint-use OTSA,0.0,3832,0.9065
+8ecddf52-35e6-4a4a-a078-2f23c3c51213,06023011600,Southern Humboldt County Technical Rescue Team,fire_protection_service,,meta,northern-ca,-123.790562,40.105994,Rural,False,,0.0,3822,0.8535
+39988e3f-5d29-44a4-87c7-e1f19006b344,48213950102,Westside Fire Department,fire_department,,meta,south-central-tx,-95.50731218,32.21421443,Rural,False,,0.0,3811,0.3455
+b82ff9c5-a663-4f23-b15a-2458259e4661,48073950802,Gallatin Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.14509184,31.89370765,Rural,False,,0.0,3798,0.8691
+0c06f6b3-3e0c-4b9f-8e44-fc9526a3f2e4,48491021300,Granger Volunteer Fire Department,fire_department,,meta,south-central-tx,-97.44181877,30.71682114,Rural,False,,0.0,3794,0.6807
+6f2b6bc2-1801-4e05-8cbb-8dc1e6542d48,40071001100,Tonkawa City Fire Department,fire_protection_service,,meta,eastern-ok,-97.30964206,36.67726927,Rural,True,Tonkawa OTSA,0.0,3781,0.8195
+8d74791b-7190-4a0b-a160-32a15c9b5695,04013010103,Rural Metro Fire Rio Verde Foothills,fire_protection_service,open,meta,maricopa-az,-111.72803679,33.74114221,Rural,False,,0.0,3779,0.0409
+42bc9ffb-0af0-4805-856e-bf6f3c96d127,40083600501,Sooner Volunteer Fire Department,fire_department,open,meta,eastern-ok,-97.38930481,35.81229233,Rural,False,,0.0,3778,0.2339
+01a6eabf-783a-47ce-b881-e127459c5161,48493000600,Poth Fire/Rescue,fire_department,,meta,south-central-tx,-98.07808955992864,29.072807325061508,Rural,False,,0.0,3774,0.4722
+728a03ef-398f-42b2-8c57-8ef9e9d9704e,48303010700,Buffalo Springs Lake Volunteer Fire Department,fire_department,open,meta,south-central-tx,-101.70932648,33.53011415,Rural,False,,0.0,3759,0.3344
+e14d4350-f5bc-4256-91bc-35cbc367235a,40063484800,Holdenville Fire Department,fire_department,open,meta,eastern-ok,-96.402382,35.083981,Rural,True,Creek OTSA,0.0,3759,0.8695
+26031be9-c76f-420e-bd56-5c70b93782e5,48459950200,Ewell Fire & Rescue,fire_department,,meta,south-central-tx,-94.9116514,32.86318867,Rural,False,,0.0,3750,0.4311
+92f9395a-da78-415b-8b94-05343f8824c1,48177000500,Gonzales County Ems,central_government_office,open,meta,south-central-tx,-97.765702,29.269344,Rural,False,,0.0,3745,0.6805
+1d82d790-9704-4ba7-bb6c-765f36b8d095,48423001502,Winona Volunteer Fire Department Station 1,fire_department,open,meta,south-central-tx,-95.18021152,32.4982643,Rural,False,,0.0,3734,0.7041
+9cc9a29d-2e7d-4df2-b32e-820a2d67a0d6,48499950301,Hainesville Fire Department,fire_department,open,meta,south-central-tx,-95.36947152,32.71723015,Rural,False,,0.0,3726,0.5943
+ae357a8e-e59d-4a6a-9d1b-1817fa4b7404,06015000202,Smith River Fire and Rescue Station 1,fire_department,open,meta,northern-ca,-124.14802931,41.92996467,Rural,False,Smith River Rancheria,0.0,3719,0.4559
+600760c3-cc5f-4236-816a-8ac1bef342ec,40117957100,Cleveland Fire Department,fire_department,open,meta,eastern-ok,-96.46390358,36.31022951,Rural,True,Pawnee OTSA,0.0,3715,0.7607
+eb10dc6b-1ffc-45b2-b73d-741e11b16443,40109108900,Jones Fire Department,fire_protection_service,open,meta,eastern-ok,-97.29084423,35.5656042,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,3712,0.8047
+f029cac6-9fad-4818-96ef-ded9267348e4,48049951300,Winchell Volunteer Fire Department,fire_department,open,meta,south-central-tx,-99.16003458,31.4736201,Rural,False,,0.0,3705,0.7178
+bba087d0-9602-4b81-97a9-fe3d61421849,48249950202,Ben Bolt Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-98.09309,27.66253,Rural,False,,0.0,3693,0.7682
+cc2592ca-649e-48c8-89a0-eb5011a431a0,04025001902,Cherry Volunteer Fire Department,fire_department,open,meta,maricopa-az,-112.04780719,34.58787984,Rural,False,Yavapai-Apache Nation Reservation,0.0,3678,0.3911
+4229907d-fe66-4988-af85-e1562ce5618f,48181000304,Sherwood Shores Volunteer Fire Dept,fire_department,open,meta,south-central-tx,-96.82806452,33.85016211,Rural,False,,0.0,3673,0.3912
+e36af7fa-d066-431b-8bec-5c51c9dcea50,48469001501,Nursery Fire Department,fire_department,,meta,south-central-tx,-97.09630264,28.92918443,Rural,False,,0.0,3634,0.4299
+7fa6dd30-a4a7-498d-a08b-7b618a8deb2d,48031950201,Blanco County ESD 2,fire_department,open,meta,south-central-tx,-98.41703799,30.08922914,Rural,False,,0.0,3631,0.5075
+7e204bfd-9579-4a7e-8eef-38b92de44d3c,40145030800,Wagoner County Emergency Management,central_government_office,,meta,eastern-ok,-95.63631603314278,35.92331538567458,Rural,True,Creek OTSA,0.0,3631,0.2436
+55d49fcd-9e86-4d42-97ac-8b67c2e0da2c,40135030401,Central Fire Department,fire_department,open,meta,eastern-ok,-94.70775281,35.46322265,Rural,True,Cherokee OTSA,0.0,3630,0.6579
+c5b4dbd4-d845-4920-8c74-6b22b8241e35,40111000500,Nuyaka Fire Department,fire_protection_service,,meta,eastern-ok,-96.13946,35.65309,Rural,True,Creek OTSA,0.0,3624,0.3287
+eeb85d11-190e-4b4c-87e2-c567550e2059,48001951001,Slocum Fire Department,fire_department,open,meta,south-central-tx,-95.46276635,31.63078544,Rural,False,,0.0,3618,0.5016
+dd8740ec-53a3-493b-9a5f-40a0ddabce43,04017960500,Joseph City Fire District,fire_department,,meta,maricopa-az,-110.33406062,34.9558456,Rural,True,Navajo Nation Reservation,0.0,3618,0.8242
+d5c55ae8-d554-4fc7-8707-0413085de9b9,48451001702,Grape Creek Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-100.54926839,31.58113211,Rural,False,,0.0,3594,0.6919
+01ebdbf4-40c5-431b-bd57-01e0e801d60b,48299970200,Llano Texas Volunteer Fire Department,fire_department,,meta,south-central-tx,-98.678625,30.750482,Rural,False,,0.0,3592,0.8564
+c6c98425-2caf-4be0-9306-7293bdb38782,40037020702,Kellyville Fire Department,fire_department,,meta,eastern-ok,-96.30432,35.94474,Rural,True,Creek OTSA,0.0,3582,0.2682
+b313b284-24f6-45ea-a702-12706e778ba6,48265960301,Turtle Creek Volunteer Fire Department,fire_department,open,meta,south-central-tx,-99.21967993,29.97447098,Rural,False,,0.0,3582,0.747
+6433a42d-9eba-46d8-8c65-f8e8060bd0a1,40047001100,Garber Fire Department,fire_department,open,meta,eastern-ok,-97.58691463,36.43402901,Rural,False,,0.0,3574,0.2343
+dcb907d6-d2c5-413a-b8f0-143078e68504,06007003600,Richvale Volunteer Fire Dept,fire_protection_service,,meta,northern-ca,-121.747168,39.495098,Rural,False,,0.0,3568,0.645
+4ab83718-fdae-435c-bc67-2cb5cd904e21,48349971000,Dawson Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-96.71499649,31.89355268,Rural,False,,0.0,3561,0.7082
+e3cc0a2e-89c0-4747-a982-0afdaec64877,48453002450,Travis County ESD 11 Fire Station 1101,fire_department,open,meta,south-central-tx,-97.63338576,30.12212666,Rural,False,,0.0,3538,0.8067
+28e96c4a-fec6-4715-baef-e40708362cfd,40101001501,Webbers Falls Fire Department,fire_protection_service,,meta,eastern-ok,-95.139961,35.51046,Rural,True,Cherokee OTSA,0.0,3531,0.866
+844a95c2-9151-4e63-9296-7686f14c77e1,48143950302,Dublin Fire Department,fire_department,open,meta,south-central-tx,-98.34116685,32.08471771,Rural,False,,0.0,3531,0.8911
+8c90ed4c-3c17-4f97-a3d1-19da9e381b00,04005001500,Forest Lakes Fire District,fire_protection_service,open,meta,maricopa-az,-110.79901103,34.33698128,Rural,False,Navajo Nation Reservation,0.0,3528,0.4877
+7d2467bd-edcb-42c9-8d52-95d837839cac,40113940009,Country Corner Fire Department,fire_department,open,meta,eastern-ok,-96.06955797,36.31809115,Rural,True,Osage Reservation,0.0,3521,0.1724
+6b3eabd3-190f-435e-a50c-1be43ddce505,06101050800,Sutter County Fire Department,fire_department,open,meta,northern-ca,-121.74911141,39.16221546,Rural,False,,0.0,3518,0.4401
+ecdde67a-2e89-4a1e-8d41-df3b11e47664,40119011001,Fire Service Training - Fire & Emergency Services Training Center,education,open,meta,eastern-ok,-97.194887662592,36.105100592867,Rural,False,,0.0,3517,0.4243
+f553eaa9-7a21-4854-91bd-5bfab1f0cbc8,40051000906,Bridge Creek Fire Department,fire_department,,meta,eastern-ok,-97.70636382,35.24461386,Rural,True,Chickasaw OTSA,0.0,3514,0.3746
+9fd6daed-f1bd-47b7-9755-82dc6db51794,48157675800,Orchard Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.96930657,29.60258875,Rural,False,,0.0,3511,0.8485
+0719114f-5e14-4184-96c7-a131e0241acd,40109108709,Newalla Fire Department,fire_department,,meta,eastern-ok,-97.15945124,35.41091545,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,3510,0.2618
+1b901ca0-92ba-4dc3-b4d3-9ccbbad381f8,48015760400,Shelby TX Volunteer Fire Dept,fire_department,,meta,south-central-tx,-96.601036,30.019718,Rural,False,,0.0,3505,0.5977
+8c753bd5-4ff5-4a5d-8cc2-e0096ffea54c,48051970400,Beaver Creek Volunteer Fire Department- Burleson County Texas,fire_protection_service,,meta,south-central-tx,-96.55755833,30.45410518,Rural,False,,0.0,3502,0.6803
+9c61a4b6-b8e9-4fc7-8125-76ab9b5c4ca4,48061010101,Rio Hondo Fire Department,fire_department,open,meta,south-central-tx,-97.58351461,26.23593995,Rural,False,,0.0,3495,0.8456
+82897b96-a4d3-4437-b777-60366dba0982,48281950304,Kempner Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.00260851,31.07746935,Rural,False,,0.0,3470,0.7012
+062be54e-cf43-4e40-b6fc-ac801f477e70,48053960401,Hoover Valley Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.39454221,30.7146534,Rural,False,,0.0,3469,0.2698
+76a82e71-e92d-4161-b33c-aa825d257390,06089012400,French Gulch Volunteer Fire,fire_department,,meta,northern-ca,-122.63537323,40.70598123,Rural,False,,0.0,3464,0.4758
+505aa0d5-e2cc-4709-bca2-bd9dcfbf81aa,48221160204,Cresson Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.61909202,32.53005768,Rural,False,,0.0,3432,0.2487
+c7fb5777-009e-4bbd-93d0-d02959116306,04025001403,Congress Fire District,fire_protection_service,open,meta,maricopa-az,-112.84671411,34.16245684,Rural,False,,0.0,3427,0.4189
+7656f3c3-bd18-4ade-8349-ed3dd7935851,40115574900,Wyandotte Volunteer Fire Department,fire_protection_service,,meta,eastern-ok,-94.725004,36.793975,Rural,True,Seneca-Cayuga OTSA,0.0,3416,0.7128
+a18bf416-798f-4acd-9719-4951057f852a,40149965100,Cordell Fire Department,fire_department,open,meta,eastern-ok,-98.98859177,35.29029891,Rural,True,Cheyenne and Arapaho OTSA,0.0,3409,0.5455
+464f6760-e533-4f6e-8611-840b46990786,48339694401,Lake Conroe Fire Department No 32,fire_department,open,meta,south-central-tx,-95.573067,30.319984,Rural,False,,0.0,3388,0.3442
+1f0440cf-a8b7-47b5-8bb8-69f90ce90ebd,48383950100,Reagan County Fire and EMS,fire_department,open,meta,south-central-tx,-101.46194203,31.19798257,Rural,False,,0.0,3385,0.6223
+87b875a1-d9c5-445b-8872-1d5247fbeac7,48053960200,East Lake Buchanan Fire Department,fire_department,open,meta,south-central-tx,-98.39931254,30.8596227,Rural,False,,0.0,3381,0.3405
+1ff2504c-3b7d-4b6f-9aaa-84ac6083f514,40135030403,Pafford Ems,health_and_medical,,meta,eastern-ok,-94.549396,35.406499,Rural,True,Cherokee OTSA,0.0,3374,0.6795
+fe522045-9ffd-4549-a2f4-807dcbf28923,40055967200,Mangum Fire Department,fire_protection_service,open,meta,eastern-ok,-99.50655512,34.87502148,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,3372,0.7838
+71175553-6d77-479b-8594-5352ef099547,48435950300,Sonora Fire Department,fire_department,open,meta,south-central-tx,-100.64354026,30.56818407,Rural,False,,0.0,3372,0.8544
+2d54aae1-675e-4801-a1a6-db558b129af4,04005001700,Williams Fire Department,fire_department,open,meta,maricopa-az,-112.18350928,35.2583418,Rural,False,,0.0,3347,0.8144
+88db4410-9878-4e5b-9932-3f0102e91f73,06089012606,Jones Valley Volunteer Fire Company,fire_department,open,meta,northern-ca,-122.23879817,40.71447083,Rural,False,Roaring Creek Rancheria,0.0,3346,0.7991
+d0837a4b-7f9b-428a-9155-3a0857a6c0ff,48185180302,Richards Fire Department,fire_department,open,meta,south-central-tx,-95.84026934,30.53771466,Rural,False,,0.0,3339,0.5736
+0e0d98bf-665f-4f62-9bd3-e485b2ab561a,40101001302,Gooseneck Bend Fire Department,fire_department,open,meta,eastern-ok,-95.25168298,35.71332946,Rural,True,Cherokee OTSA,0.0,3324,0.3823
+cfffef18-8b1c-46b2-b534-24bac3759ca2,40097040700,Spavinaw Fire Department,fire_department,,meta,eastern-ok,-95.04785822,36.3891657,Rural,True,Cherokee OTSA,0.0,3313,0.7796
+4524dc03-3385-4bbd-9475-d9f01b07039f,48019000301,Lakeshore Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.96874276,29.63184243,Rural,False,,0.0,3304,0.2775
+4e57b58f-c75e-47c3-b6ee-29f426039fc8,48095950300,Eden EMS,emergency_room,open,meta,south-central-tx,-99.84314665,31.21445918,Rural,False,,0.0,3303,0.8248
+5d858913-1dc7-4d5f-a3db-51c45acbf52a,48277000302,Faught Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.42902016,33.73647557,Rural,False,,0.0,3290,0.4659
+864b0566-4404-49a1-b804-60a8fcab9b89,06033000100,Lake Pillsbury Fire Protection District,fire_protection_service,open,meta,northern-ca,-122.97039918602,39.45879416281,Rural,False,Upper Lake Rancheria,0.0,3284,0.8144
+39507328-6ee7-45c1-9be5-acc6f54dc17b,48497150606,Rhome Fire Department,fire_department,,meta,south-central-tx,-97.47692087,33.05397773,Rural,False,,0.0,3283,0.554
+852c2886-703b-440e-939b-89f68bd93c10,40075964200,Roosevelt Volunteer Fire Department,fire_department,,meta,eastern-ok,-99.022318,34.852082,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,3279,0.7423
+8be124b1-e085-4ddd-8dd5-4d9c4e855aa9,48021950806,Bastrop County Emergency Services District No. 1,fire_protection_service,open,meta,south-central-tx,-97.43656216,29.98887664,Rural,False,,0.0,3278,0.2827
+3b506443-1ab7-4124-a2a0-0d91f3333c08,48503950402,Newcastle Fire Department,fire_department,open,meta,south-central-tx,-98.7409657,33.19353692,Rural,False,,0.0,3277,0.4444
+cac12b88-07e6-4068-96d3-48a28ee41d2e,40039961000,"Thomas Volunteer Fire Department Thomas, Ok",fire_department,open,meta,eastern-ok,-98.7449253,35.74223860000001,Rural,True,Cheyenne and Arapaho OTSA,0.0,3270,0.6702
+73bf4c55-4e25-425a-a4cd-8e60fc1b3525,48395960400,Wheelock Fire Department,fire_department,open,meta,south-central-tx,-96.38085109,30.89235095,Rural,False,,0.0,3265,0.6296
+be2ea493-a42b-4e47-bff4-6bc0b07670da,48209010807,Henly Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.21254923,30.18836249,Rural,False,,0.0,3264,0.0675
+460d6fe7-b3de-40a2-b7ad-7f00bf35f5f8,48391950400,Bayside Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-97.2162198,28.0932851,Rural,False,,0.0,3258,0.6332
+c7d39ebf-48e2-482d-bff5-5249c6eb9b28,48091310610,Bulverde Spring Branch Fire and EMS Station 2,fire_department,open,meta,south-central-tx,-98.41001995,29.93066467,Rural,False,,0.0,3254,0.6688
+c1cbc906-361f-4693-90a0-453b695b79c5,48397040508,McLendon-Chisholm Fire Department,fire_department,open,meta,south-central-tx,-96.399548,32.8371092,Rural,False,,0.0,3245,0.0701
+0126078d-384c-4bcb-b754-9a41ccbcb101,06091010000,Downieville Fire Department,fire_department,open,meta,northern-ca,-120.82743305,39.5605987,Rural,False,,0.0,3236,0.6195
+a9e4b0ba-4442-42f6-a069-9a5291b09e1b,04005002302,Sherwood Forest Estates Fire District,fire_department,open,meta,maricopa-az,-112.04484341,35.24391386,Rural,False,,0.0,3234,0.1323
+e18411f0-4fb1-4b66-a1d0-11ad29e08a13,48009020300,Windthorst Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.43833393,33.5916106,Rural,False,,0.0,3221,0.7152
+16c081a0-cd88-4d22-b45c-5835ca4d4e38,48355006100,Nueces County ESD 3 - Station 1,fire_department,open,meta,south-central-tx,-97.78701909,27.58676121,Rural,False,,0.0,3217,0.7094
+e068d88a-9cdc-47b3-82f9-30501e681819,06089012702,McArthur Volunteer Fire Department,fire_department,,meta,northern-ca,-121.397251,41.049983,Rural,False,,0.0,3209,0.8292
+9a694423-4d8f-4f0f-8bd8-9a0af4f304a3,48159950101,Purley Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.27094908,33.09251846,Rural,False,,0.0,3207,0.1895
+4a86914e-470b-4a41-98c5-1819d849f698,40119011002,Medi-flight 5,health_and_medical,open,meta,eastern-ok,-97.05435816,36.05390446,Rural,False,,0.0,3200,0.3475
+dca33d7e-123d-4773-b1a1-0700ad7e9993,48395960501,Robertson County EMS,fire_department,,meta,south-central-tx,-96.59268271,30.87548905,Rural,False,,0.0,3199,0.8566
+b922fcdf-5ea9-4ef6-8d13-46fc780098a3,06115041101,"Foothill Fire, Brownsville CA",fire_protection_service,open,meta,northern-ca,-121.282875,39.456786,Rural,False,,0.0,3187,0.8914
+78b04e0a-cfcd-4ddb-a01d-34405fee4c1a,40091780200,Eufaula Fire Department,fire_department,open,meta,eastern-ok,-95.58216762,35.28960707,Rural,True,Creek OTSA,0.0,3182,0.8345
+882f50ea-0998-4499-b04d-00bdc7ccb415,04021002107,Avra Valley Fire Station,fire_department,open,meta,maricopa-az,-111.34334266,32.56814779,Rural,False,,0.0,3180,0.5974
+b4571a01-99a7-4a8a-9d02-bb522c861a33,48453035900,Travis County ESD 1 Fire Station 104,fire_department,open,meta,south-central-tx,-97.94910103,30.57322059,Rural,False,,0.0,3176,0.1133
+daa24e78-9593-4344-9422-2110f370f415,40107080700,Boley Fire Department,fire_department,open,meta,eastern-ok,-96.48373754,35.4899393,Rural,True,Creek OTSA,0.0,3125,0.765
+f5e01383-0733-48f0-8c63-84f9ca299b44,48277000301,Deport Fire Department,fire_department,open,meta,south-central-tx,-95.31651884,33.52888282,Rural,False,,0.0,3117,0.3498
+9968824d-1b58-4a3e-96d3-13ea8208fb0d,40041375602,Cowskin Fire Department,fire_protection_service,open,meta,eastern-ok,-94.7069154,36.64086798,Rural,True,Seneca-Cayuga OTSA,0.0,3108,0.6053
+051e2c77-4fd5-41d6-aa93-9055ba93644b,04019004316,Helmet Peak Fire Department,fire_department,open,meta,maricopa-az,-111.09314069,31.96981914,Rural,False,,0.0,3106,0.7767
+ad001fef-6453-4afc-8e44-5d5ff3dedcbb,48237950300,Jacksboro Fire Department,fire_department,open,meta,south-central-tx,-98.15772253,33.22024774,Rural,False,,0.0,3099,0.9561
+4767cbb7-dfcc-4ddf-8046-fcac00dc4b16,48105950100,Crockett County Fire Department,fire_department,open,meta,south-central-tx,-101.20598259,30.72114564,Rural,False,,0.0,3098,0.5933
+cf29d679-41d9-4ebf-99d7-0fa281ba9151,40085094100,Marietta Oklahoma Fire Department,fire_protection_service,,meta,eastern-ok,-97.117031,33.936916,Rural,True,Chickasaw OTSA,0.0,3096,0.9578
+ffd0bec6-c58b-4cdb-aa1c-c6e95cfe2510,48187210508,York Creek Volunteer Fire Department,fire_department,,meta,south-central-tx,-97.95572651,29.7402344,Rural,False,,0.0,3081,0.5295
+cc47572e-ae26-405a-8eb4-ad9cbd00f789,48223950100,North Hopkins Volunteer Fire & Rescue,fire_department,,meta,south-central-tx,-95.58311253,33.27232442,Rural,False,,0.0,3075,0.5633
+eba8b1f8-73fa-49ac-8be5-3fad6bc8ea2e,04023966101,Tubac Fire District,fire_protection_service,open,meta,maricopa-az,-111.0520461,31.61536124,Rural,False,,0.0,3068,0.7098
+a10d377d-bcdb-41c0-af0f-6c21d36c433b,40145030798,Tullahassee Fire Department,fire_department,,meta,eastern-ok,-95.437355,35.832677,Rural,True,Creek OTSA,0.0,3059,0.6591
+e0169210-67b8-40a3-8c30-b09ba93751de,40049681100,Walker Fire Department,fire_protection_service,open,meta,eastern-ok,-97.072381,34.737818,Rural,True,Chickasaw OTSA,0.0,3050,0.6396
+4867706b-aefa-42e3-9333-82cf2c70ea02,06035040500,Janesville Fire District,fire_department,open,meta,northern-ca,-120.51063266,40.29257929,Rural,False,,0.0,3045,0.5722
+b21ecd2b-8c80-419c-97a2-508712e1c7c1,40121486600,Pafford EMS,emergency_roadside_service,open,meta,eastern-ok,-95.76475734,34.89571266,Rural,True,Choctaw OTSA,0.0,3012,0.513
+3a8c4df2-27c9-48f0-9588-9886452c4316,48177000100,Waelder Fire/Rescue,fire_protection_service,,meta,south-central-tx,-97.295971,29.693056,Rural,False,,0.0,3012,0.8205
+444cdaba-9743-4480-bcb0-fd225f519dde,48209010810,Wimberley Emergency Medical Service,emergency_roadside_service,open,meta,south-central-tx,-98.10398876,29.99984816,Rural,False,,0.0,3011,0.2307
+ae8125db-b2b3-4b46-bda8-f20d6cfab005,48223950800,Arbala Volunteer Fire Department,fire_department,,meta,south-central-tx,-95.65087548,32.98762138,Rural,False,,0.0,3006,0.5917
+c4ea6754-2032-4d65-9550-879c0110468a,48459950501,West Mountain VFD,fire_department,open,meta,south-central-tx,-94.92042578,32.62136084,Rural,False,,0.0,3006,0.4514
+53a0cd65-5903-4630-854d-fb596843e6b2,48119950100,Klondike Volunteer Fire Department,fire_department,,meta,south-central-tx,-95.76039,33.33332,Rural,False,,0.0,3001,0.3877
+a0bc4376-123a-48bd-bded-6e149a6d51fd,48441013601,Merkel Volunteer Fire Department,fire_department,,meta,south-central-tx,-100.01245,32.47093,Rural,False,,0.0,2999,0.6313
+136ddf84-0e74-40b7-8235-e39f63f91cb3,40035373100,Welch Fire Department,fire_department,open,meta,eastern-ok,-95.094467,36.875396,Rural,True,Cherokee OTSA,0.0,2989,0.7305
+f9892779-ae1a-4912-883c-49a2adcd6a42,48057000402,6 Mile Community VFD,fire_protection_service,open,meta,south-central-tx,-96.683069,28.681704,Rural,False,,0.0,2984,0.8185
+b3651f3f-49a8-4624-889f-a45c721188d1,40109108804,Fire-Medic Group,health_and_medical,open,meta,eastern-ok,-97.29814071,35.55100105,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,2981,0.4456
+0f1f8568-74e8-4f53-84d5-a44413caaeb3,40135030404,Pafford EMS - Muldrow Station,emergency_roadside_service,open,meta,eastern-ok,-94.59452712,35.4024323,Rural,True,Cherokee OTSA,0.0,2974,0.4638
+c1e86670-d5fb-442a-aa17-ac70a4e23019,48005000104,Central Volunteer Fire Department,fire_department,,meta,south-central-tx,-94.87419,31.45544,Rural,False,,0.0,2974,0.4906
+7023961b-aa56-4c7d-921b-6f019673fb8a,40103956600,Marland Volunteer Fire Department,fire_department,,meta,eastern-ok,-97.15256791195536,36.5642827840215,Rural,True,Otoe-Missouria OTSA,0.0,2970,0.7149
+6f2d37bb-47ab-4a0b-a0ee-d91e39f3a385,04023966000,Sonoita-Elgin Fire District,fire_protection_service,open,meta,maricopa-az,-110.65541712,31.68100922,Rural,False,,0.0,2965,0.5589
+020ee311-749d-4a23-b1d2-baab8addcdd3,48283950301,La Salle County Fire Rescue,fire_department,open,meta,south-central-tx,-99.23198584,28.42433909,Rural,False,,0.0,2959,0.8613
+c1e0e53d-9e9c-4105-9002-4e56222b4ec0,48175960200,Goliad County Emergency Medical Service,medical_service_organizations,open,meta,south-central-tx,-97.39672677,28.68022533,Rural,False,,0.0,2958,0.7455
+78e0243b-4668-4ade-9366-6acec77aabf2,48339692701,East Montgomery Fire Station 154,fire_department,,meta,south-central-tx,-95.27105325,30.2069294,Rural,False,,0.0,2957,0.5408
+49d871b1-792e-42c2-a2ed-8e4e781d8486,40103957100,Billings Oklahoma Volunteer Fire Department,fire_protection_service,,meta,eastern-ok,-97.4454549,36.5287444,Rural,True,Otoe-Missouria OTSA,0.0,2955,0.5228
+90f84276-3c89-49ca-b3f2-6f7812fc8744,04011960100,Clifton Fire Department,fire_department,,meta,maricopa-az,-109.30988541,33.05606102,Rural,False,,0.0,2951,0.6686
+41666a6b-3a98-42aa-91a5-e599b908ca7f,40037021101,Depew Fire Department,fire_department,,meta,eastern-ok,-96.50746864,35.8021793,Rural,True,Creek OTSA,0.0,2949,0.5308
+8416265a-9864-4912-9e72-f818bcaf902e,48055960502,Maxwell Fire and Rescue,fire_department,open,meta,south-central-tx,-97.79595508,29.87734146,Rural,False,,0.0,2946,0.6136
+17e78552-ed1b-4696-9791-5f5e5a609816,48049950300,Zephyr Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-98.79370701,31.67427503,Rural,False,,0.0,2942,0.6305
+62999e6b-98c1-41ea-97e5-0e2d4f9761a4,40031002201,Comanche Nation Emergency Management,central_government_office,,meta,eastern-ok,-98.399578,34.72678,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,2935,0.3383
+139003ae-8c07-4e8b-b6ca-574aba0bb691,06023010102,Orleans Volunteer Fire Department,fire_department,,meta,northern-ca,-123.53521155,41.30502437,Rural,True,Yurok Reservation,0.0,2914,0.6113
+39ce8b27-9617-4e8e-80b1-1a9c0a7d7423,04007000100,Pine-Strawberry Fire District Station 41,fire_department,open,meta,maricopa-az,-111.45705521,34.38458163,Rural,False,,0.0,2908,0.1543
+506dbe81-7503-4996-affc-fa0ae9da2943,40127097702,Moyers Volunteer Fire Department,fire_department,,meta,eastern-ok,-95.60628,34.35745,Rural,True,Choctaw OTSA,0.0,2900,0.711
+d1cc01e5-adf0-41eb-abfb-feb33843c03b,48131950200,Freer Vol Fire Dept & EMS,fire_department,open,meta,south-central-tx,-98.6177630042777,27.872079310547782,Rural,False,,0.0,2887,0.8079
+cc797c1d-baa5-409b-982d-93c320c6d449,48325000104,Mico Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-98.92307158,29.54494214,Rural,False,,0.0,2885,0.0952
+409e35b0-1e8e-48ac-92e9-1550fcd00893,48055960600,Delhi Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.39662956,29.82308249,Rural,False,,0.0,2874,0.1977
+2d328f49-1da5-4858-8be3-dfe50dc6107f,40113940008,Avant Volunteer Fire Department,fire_department,open,meta,eastern-ok,-96.06058078,36.48789009,Rural,True,Osage Reservation,0.0,2858,0.5972
+5104e9ff-81b5-4e30-85b6-9aea5d2ec858,40021977701,Norwood Rural Volunteer Fire,fire_protection_service,open,meta,eastern-ok,-95.16434356,35.87071509,Rural,True,Cherokee OTSA,0.0,2854,0.5171
+bd3681f3-641c-4139-9a37-6943842b73fd,40037020705,Silver City Fire Rescue,fire_protection_service,,meta,eastern-ok,-96.459085,36.082788,Rural,True,Creek OTSA,0.0,2846,0.4062
+a93b3695-804f-4a11-b616-2f914900dc54,40041375901,Lakemont Fire Department,fire_department,open,meta,eastern-ok,-94.91666704,36.47183748,Rural,True,Cherokee OTSA,0.0,2835,0.6589
+4a84748f-e249-4250-8d3c-9af76ab07b72,06061022013,Alta Volunteer Fire Protection,fire_protection_service,open,meta,northern-ca,-120.810274,39.206878,Rural,False,,0.0,2833,0.4552
+17cca083-a375-4f14-8bbb-438623ec8e37,40021978202,Cookson Volunteer Fire Department,fire_department,open,meta,eastern-ok,-94.92134101,35.71135361,Rural,True,Cherokee OTSA,0.0,2822,0.5349
+96041270-73a6-472b-b6e7-e4cc5a89570d,48231961700,Tawakoni South Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.06504747,32.85458653,Rural,False,,0.0,2811,0.5552
+ba83ec8e-8aae-42ad-ae07-2dc2c543a99e,40091779900,F.A.I.C. Fire Department,fire_department,open,meta,eastern-ok,-95.62779842,35.41555335,Rural,True,Creek OTSA,0.0,2803,0.7273
+d4014638-0d8d-4af4-b3d4-b89692c55bb9,40015162000,Green Acres Fire Department,fire_department,open,meta,eastern-ok,-98.34179828,35.20611734,Rural,True,Caddo-Wichita-Delaware OTSA,0.0,2801,0.5196
+9d081afa-c4a7-44ac-af71-c3e8a2912a62,48331950500,Milano Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-96.86172383,30.71058408,Rural,False,,0.0,2780,0.5681
+fff143c4-57b5-4377-b3b8-40003804c64b,40101001100,Wainwright Fire Department,fire_department,open,meta,eastern-ok,-95.56477038,35.61456847,Rural,True,Creek OTSA,0.0,2776,0.594
+41e32f15-dcd4-4d09-bf67-7f908d11f168,48133950100,Ranger City Fire Department,fire_department,open,meta,south-central-tx,-98.67165559,32.47227678,Rural,False,,0.0,2760,0.8827
+624fc168-7c0a-4d82-84de-7bfa514ec1f2,48325000801,Devine Fire and EMS Academy,fire_department,,meta,south-central-tx,-98.92476683,29.15142639,Rural,False,,0.0,2755,0.7028
+0d75aeaf-6696-4e13-9096-64d7c9a27169,48313000300,North Zulch Fire Department,fire_department,open,meta,south-central-tx,-96.10922733,30.91647396,Rural,False,,0.0,2750,0.6174
+4e70ee6d-88a1-46c6-99fb-85cc3ff2ec38,48247950400,Jim Hogg County Fire Department,fire_department,,meta,south-central-tx,-98.67712358,27.30665667,Rural,False,,0.0,2746,0.8112
+9cedba52-aa66-4f85-b5c9-74420f3006e7,48187210511,Geronimo Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.96679944,29.65864684,Rural,False,,0.0,2742,0.6202
+df999964-81fc-41ce-937e-62d3b0cf0524,06049000300,Canby Fire Department,fire_department,,meta,northern-ca,-120.87801,41.43825,Rural,False,XL Ranch Rancheria,0.0,2741,0.6103
+4396fee0-7cb8-4cef-b84c-bb7bd6ea2be7,48363000100,Palo Pinto County ESD1,central_government_office,,meta,south-central-tx,-98.43318161,32.90175471,Rural,False,,0.0,2740,0.4823
+28628ae8-392d-4a6a-946f-5e3d48c7545e,48029131801,Bexar County ESD No. 12 Station 1,fire_department,,meta,south-central-tx,-98.2022351,29.41475283,Rural,False,,0.0,2732,0.1925
+b377fa2b-c1df-4388-9d1d-466e806e4fcd,40145030201,Whitehorn Fire Department,fire_department,,meta,eastern-ok,-95.327789,36.030498,Rural,True,Cherokee OTSA,0.0,2724,0.5386
+e5067e24-1321-4c4e-aa6d-5f08d71e4751,40125501300,Asher Fire Department,fire_department,open,meta,eastern-ok,-96.92663249,34.98901981,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,2716,0.657
+3a4703a1-b6e4-4dc0-a7b8-6127d1858fee,48273020102,Aquino Andres D MD,diagnostic_services,,meta,south-central-tx,-97.85658,27.46513,Rural,False,,0.0,2714,0.714
+54a198be-72f7-42c0-883a-e48fe38befdb,40019892100,Ardmore Air Park Fire Department,fire_department,open,meta,eastern-ok,-97.02715087,34.29934364,Rural,True,Chickasaw OTSA,0.0,2712,0.5935
+3be24ea2-919b-4c25-aef5-11c915dac47a,48253020200,Anson Fire Department,fire_department,open,meta,south-central-tx,-99.89450726,32.75677853,Rural,False,,0.0,2708,0.6895
+6f3a30f7-7da1-4a13-b87d-8f79de5be5db,48143950204,Huckabay Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.29767579,32.34426119,Rural,False,,0.0,2707,0.5758
+b163fc53-a759-41a1-84ad-2d453499b77b,06105000101,Trinity Center VFD,fire_department,open,meta,northern-ca,-122.70439543,40.98375156,Rural,False,,0.0,2686,0.7524
+813209ba-e15b-455c-91f9-eda6c946ee83,04003000305,Saint David Fire District,fire_protection_service,open,meta,maricopa-az,-110.21115341,31.90155895,Rural,False,,0.0,2681,0.223
+27e69d4e-c302-48a7-832c-5421c1652b6f,48321730203,Van Vleck Volunteer Fire Department,fire_department,,meta,south-central-tx,-95.89266577,29.01772005,Rural,False,,0.0,2678,0.5964
+593229ec-b8f0-413f-8ba4-a3f1c87ba853,40045952600,Fargo Volunteer Fire Department,central_government_office,,meta,eastern-ok,-99.6227,36.3734,Rural,False,,0.0,2677,0.8175
+e4d28c38-81f1-4b0d-8ea2-45f27f123a8d,48387950600,Bogata Fire Department,fire_department,open,meta,south-central-tx,-95.21639714,33.47189761,Rural,False,,0.0,2648,0.649
+612fb247-1045-443b-98a0-bab91235a669,48187210805,Seguin Fire Department,fire_department,,meta,south-central-tx,-97.99013686,29.56284483,Rural,False,,0.0,2631,0.7412
+0fb214e7-b8d9-4ac1-83d5-a6fe266d03bc,04015954801,Pinion Pine Fire District Station 52,fire_department,,meta,maricopa-az,-113.90170054,35.19691459,Rural,False,Hualapai Indian Reservation,0.0,2630,0.4216
+9d46e211-c514-465f-9700-7c19f302d51b,40015161800,Alden Fire Department,fire_department,open,meta,eastern-ok,-98.60304911,34.9833959,Rural,True,Caddo-Wichita-Delaware OTSA,0.0,2626,0.8889
+0635d85d-e723-4908-9ae3-1089f096bfe7,40109108701,Oklahoma City Fire Department Station 28,fire_department,open,meta,eastern-ok,-97.31807515,35.39574786,Rural,True,Citizen Potawatomi Nation-Absentee Shawnee OTSA,0.0,2625,0.2791
+a68390b6-8bf7-4d32-96e8-e8265de2a1a3,48459950502,Pleasant Grove VFD,fire_department,open,meta,south-central-tx,-95.11475409,32.63895561,Rural,False,,0.0,2613,0.823
+3cbb4fed-26ef-49af-a1b3-fd69b49df92d,48237950500,East Jack County Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-97.96833245,33.16806472,Rural,False,,0.0,2607,0.6442
+fe34b927-bd58-4007-a5bb-17591998047a,48353950500,Roscoe Volunteer Fire Department,fire_department,open,meta,south-central-tx,-100.53933327,32.44557162,Rural,False,,0.0,2603,0.7403
+141b090e-28e1-48cc-9967-4fe1b9ddf4c5,48423001805,Jackson Heights Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.07557892,32.36857573,Rural,False,,0.0,2586,0.7368
+dc9012fe-2437-42f8-9438-5a7a6a8ba8d5,48441013602,Mulberry Canyon Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-100.105661,32.346148,Rural,False,,0.0,2581,0.2972
+d71a2c19-d8dd-4189-82c9-75aa651320ba,48479001818,El Cenizo Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-99.49957418,27.33237553,Rural,False,,0.0,2578,0.9343
+ec02f5e6-17b8-49a0-92a6-deb6b68b4e8d,48147950500,Dodd City Volunteer Fire Dept.,fire_protection_service,open,meta,south-central-tx,-96.076056,33.574185,Rural,False,,0.0,2574,0.5355
+ed2ca52c-e5f9-4967-9735-578c5bde8510,48217960502,Lakeview Fire Department,fire_department,,meta,south-central-tx,-97.38222291,31.95418039,Rural,False,,0.0,2571,0.3424
+2660c2fd-4179-4ac8-b964-fdd9fff9f940,40127097800,Rattan Fire Department,fire_department,,meta,eastern-ok,-95.4135335,34.19819596,Rural,True,Choctaw OTSA,0.0,2571,0.7328
+f72487b4-44cd-4bd9-938b-744120a6353a,48145000700,Rosebud Fire Department,fire_department,,meta,south-central-tx,-97.046859,31.0734,Rural,False,,0.0,2559,0.713
+9ea104a5-dff5-4176-8251-11f562ff32af,48123970500,Nordheim Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-97.610334,28.922206,Rural,False,,0.0,2551,0.6532
+e7618dd1-741d-4d25-a354-49aeaf6d5428,48499950304,Yantis Fire Department,fire_department,open,meta,south-central-tx,-95.57616155,32.93330618,Rural,False,,0.0,2544,0.3126
+ff921c40-5c47-4d52-ba03-ded748ab44d5,48159950300,South Franklin Fire Department,fire_department,open,meta,south-central-tx,-95.21499637,33.04086719,Rural,False,,0.0,2538,0.453
+e0e864ce-cd0d-44eb-9a80-5e7bfa5e4b00,48051970202,Cade Lake Fire Department,fire_department,open,meta,south-central-tx,-96.7718844,30.51588051,Rural,False,,0.0,2535,0.2257
+b1520c87-4b46-4b37-9553-126c9ca2ef3c,48013960500,Charlotte Fire Department,fire_department,open,meta,south-central-tx,-98.70483409,28.86284622,Rural,False,,0.0,2533,0.8811
+5db582a8-d845-42b5-92d6-503501dd1a7f,48491020206,WC ESD 7: Andice - Florence Fire Department,fire_protection_service,open,meta,south-central-tx,-97.85138,30.77816,Rural,False,,0.0,2530,0.3076
+0bf4a3e9-87fe-48a3-8ea2-ce5b5ac89531,06093001300,Hornbrook Fire Protection District,fire_protection_service,,meta,northern-ca,-122.55769783,41.91196543,Rural,False,Karuk Off-Reservation Trust Land,0.0,2529,0.8333
+41ae5f88-8beb-4efe-9337-d8358e91683a,04011960300,Duncan Valley Rural Fire District Station,fire_department,open,meta,maricopa-az,-109.0977834,32.71230342,Rural,False,,0.0,2528,0.5811
+188884df-8347-4aa4-b775-3484986a29a8,48373210205,Scenic Loop Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-95.10054387,30.7234467,Rural,False,,0.0,2513,0.6345
+5b125e0a-7d91-40c0-989a-83588d9c830b,48053960802,Spicewood Fire Rescue,fire_protection_service,,meta,south-central-tx,-98.156369,30.45812,Rural,False,,0.0,2508,0.3463
+4e94b497-faf8-4e02-bbeb-5c895ea5991c,48449950200,Tri-Lakes Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.10705071,33.0686501,Rural,False,,0.0,2507,0.7189
+eaa6ce9e-f567-45e8-b7a6-cb076e7e63d3,48209010920,Travis County Fire Rescue Station 1108,fire_department,open,meta,south-central-tx,-97.73022147,30.01108951,Rural,False,,0.0,2507,0.7392
+95f98bbd-be14-4d72-896d-5e4cedeeadd7,48093950102,Sipe Springs Volunteer Fire Department,fire_department,,meta,south-central-tx,-98.7830092,32.0909749,Rural,False,,0.0,2485,0.5983
+ce5f3b92-a92f-4fd2-a3b7-c106c6bb67f6,48231960200,Wolfe City Fire Department,fire_department,open,meta,south-central-tx,-96.07011976,33.36979243,Rural,False,,0.0,2480,0.5503
+4d099f06-3449-42aa-898b-7aa144a4b416,40013795600,Bennington Rural Volunteer Fire Dept,fire_protection_service,,meta,eastern-ok,-96.037858,33.997049,Rural,True,Choctaw OTSA,0.0,2479,0.5964
+335b74ef-3c0c-497c-8788-5da66034ed39,06035040200,Westwood Fire Department,fire_department,open,meta,northern-ca,-121.00142558,40.30223136,Rural,False,,0.0,2459,0.7366
+2b1656f5-079d-4259-af5c-e39d49dc25e2,06101051100,East Nicolaus Fire Department,fire_department,open,meta,northern-ca,-121.54367829,38.91037747,Rural,False,,0.0,2456,0.7812
+57a69b36-3979-45de-a6d6-3f78e6e82b98,48009020200,Holliday Volunteer Fire And Rescue,fire_department,open,meta,south-central-tx,-98.69324549,33.81172448,Rural,False,,0.0,2442,0.3139
+c30a724e-571b-4c61-9093-7335ab7edc07,40109109204,Edmond Fire Department,fire_department,open,meta,eastern-ok,-97.412211486726,35.681122246005,Rural,False,,0.0,2440,0.0023
+f190e9de-9567-46e8-935a-71f27edb38c6,48251130414,Blue Water Oaks Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.23624842,32.36493382,Rural,False,,0.0,2438,0.5178
+5cb721e7-f721-4155-9de3-602ed87af4cf,40017300100,"Cedar Lake Fire Department, Oklahoma",fire_protection_service,open,meta,eastern-ok,-98.18474,35.43039,Rural,True,Cheyenne and Arapaho OTSA,0.0,2422,0.5585
+66ce5341-96a3-49ce-bb28-8f2e707eed89,48213951402,Poynor Fire Department,fire_department,,meta,south-central-tx,-95.59567829,32.07708575,Rural,False,,0.0,2421,0.419
+8ea03456-2e91-4f43-ad08-26744c4fbe3f,04021000400,Superior Fire Department,fire_department,open,meta,maricopa-az,-111.11447337,33.27894489,Rural,False,,0.0,2418,0.6469
+a1d8b172-b475-46f6-9521-9e8a53cad3b9,48499950500,Quitman Fire Department,fire_department,open,meta,south-central-tx,-95.44841054,32.79589111,Rural,False,,0.0,2415,0.9279
+fab706b7-c184-4584-afe8-ea3383707d4e,04013610001,Fire Station 146,fire_protection_service,open,meta,maricopa-az,-112.127799,33.920814,Rural,False,,0.0,2404,0.3206
+47f189cf-a9e4-46f6-a439-ba71cdb4eb6a,48019000200,Tarpley Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-99.27971752,29.65853654,Rural,False,,0.0,2394,0.6883
+f7aab3fe-cadd-4c76-bdd9-7d15d5181896,48297950400,Lagarto Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-97.93062303,28.12429789,Rural,False,,0.0,2391,0.6439
+6cd1a65b-129d-40b2-8be3-e1ec0f965b2b,48013960401,Leming Fire Department,fire_protection_service,,meta,south-central-tx,-98.491258,29.068543,Rural,False,,0.0,2391,0.7068
+4fa027b6-31f5-40dd-b5f1-d86b9e6d7bc8,48441013501,Moro Volunteer Fire Department,fire_department,open,meta,south-central-tx,-99.9654036,32.14414828,Rural,False,,0.0,2389,0.3339
+bee13fca-7d66-4536-9343-53fcdf0f678c,48225950102,Weches Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.22837639,31.54359614,Rural,False,,0.0,2370,0.446
+6e64b177-b8a2-448c-b7c0-e5a692ae85a2,48193950200,Evant Fire Station,fire_department,,meta,south-central-tx,-98.15872,31.48116,Rural,False,,0.0,2365,0.5547
+f3e6b6b4-0a5a-40b0-9107-5737f90530b7,48489950600,Santa Monica Volunteer Fire,fire_protection_service,,meta,south-central-tx,-97.591201,26.360359,Rural,False,,0.0,2363,0.8981
+66765cbd-4e8a-4fe6-a894-04d00a44912c,40113940004,Osage Hills Rural Firefighters,fire_department,open,meta,eastern-ok,-96.13759863,36.71288216,Rural,True,Osage Reservation,0.0,2356,0.4841
+b7dad711-f5b5-4fe8-8cd3-89bc2babae1c,40123088700,Lula Volunteer Fire Department,fire_department,,meta,eastern-ok,-96.43286,34.70475,Rural,True,Chickasaw OTSA,0.0,2349,0.613
+a9685ea7-9783-4dfb-9feb-ac5f6008c326,40089098200,Bethel Volunteer Fire Department,fire_department,open,meta,eastern-ok,-94.84250639,34.36049073,Rural,True,Choctaw OTSA,0.0,2349,0.5007
+16ae9032-5cc4-497c-89f7-04fe00398ac3,48083950700,Santa Anna Fire Department,fire_department,open,meta,south-central-tx,-99.32311283,31.74339339,Rural,False,,0.0,2336,0.7197
+250fed89-94aa-452d-b2f4-e660a3db1cff,04003001301,Whetstone Fire District,fire_department,open,meta,maricopa-az,-110.34902828,31.70570451,Rural,False,,0.0,2333,0.615
+86774692-fe1a-446d-894a-c02ce4218f3d,04025002100,Ash Fork Fire Department,fire_department,open,meta,maricopa-az,-112.48569568,35.2245836,Rural,False,Hualapai Indian Reservation,0.0,2331,0.5334
+8e74af13-8629-4eca-9efd-b97d916d0652,48049950202,Lake Brownwood Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-99.09665851,31.83220235,Rural,False,,0.0,2331,0.5613
+fa5d8237-7750-4868-90af-3a795d32f8db,48053960102,Bertram Volunteer Fire Dept,fire_department,,meta,south-central-tx,-98.05636,30.74369,Rural,False,,0.0,2316,0.3211
+9e5da35d-0d6f-4ff6-a003-d0306225c2e2,48337950100,Saint Jo Fire Department,fire_department,open,meta,south-central-tx,-97.52164584,33.69616116,Rural,False,,0.0,2309,0.5887
+23a508fa-ac63-4777-888e-025126fdf51a,48481741100,Louise Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-96.40945949212828,29.108635830583484,Rural,False,,0.0,2309,0.6947
+74681fb1-88e3-4a44-b6ad-66442f729a97,48453036400,Travis County ESD 1- Admin,fire_protection_service,,meta,south-central-tx,-97.9741525,30.47578653,Rural,False,,0.0,2299,0.0968
+c7272efe-2998-4cdd-86ca-48abe46778b3,40049681500,Wynnewood Fire Department,fire_department,open,meta,eastern-ok,-97.17089141,34.64465054,Rural,True,Chickasaw OTSA,0.0,2294,0.8324
+6786ca2f-c94a-4be0-998d-3852bd9faf16,40063484700,Horntown Fire Department,fire_department,,meta,eastern-ok,-96.24738653,35.08387001,Rural,True,Creek OTSA,0.0,2291,0.3966
+38852790-de03-4b96-96d7-72dd2ca11e13,48025950600,Papalote Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.60051359,28.17356908,Rural,False,,0.0,2273,0.713
+3680dcbf-3ef4-41a5-861e-0b8f17328efc,40061279400,Lequire Fire Station,fire_department,open,meta,eastern-ok,-95.10799223,35.10391353,Rural,True,Choctaw OTSA,0.0,2258,0.6543
+caf86c72-9dbe-4ada-8e94-fa4c40a2fe43,48187210603,Marion Volunteer Fire Department Station,fire_department,open,meta,south-central-tx,-98.14050947,29.57311471,Rural,False,,0.0,2257,0.6821
+d25055ea-8b58-495d-8881-4e319d597bce,04025000701,Walker Fire Department,fire_department,open,meta,maricopa-az,-112.37850321,34.45610572,Rural,False,,0.0,2236,0.3589
+42fa53f0-7976-4ace-b7bd-18430e1ad9b3,48091310612,Canyon Lake Fire & EMS,fire_department,open,meta,south-central-tx,-98.19202962,29.87495051,Rural,False,,0.0,2230,0.6482
+cbc12100-1bea-4623-8243-7ec8f17d472e,40121485700,Elm Point Volunteer Fire Department,fire_protection_service,open,meta,eastern-ok,-95.597493,35.007207,Rural,True,Choctaw OTSA,0.0,2224,0.8055
+ec0a590d-24d0-46ba-b98e-73d8116f1957,48039664200,Surfside Beach Fire Department,fire_department,,meta,south-central-tx,-95.28938566,28.95001221,Rural,False,,0.0,2222,0.728
+b67de237-40b3-422b-a37d-b2671c25ad8b,48019000400,Medina Lake Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.94569629,29.59617951,Rural,False,,0.0,2209,0.6258
+be291078-4eb9-4cb9-9c71-1f0598e9422e,06089012604,Millville Volunteer Fire Department,fire_department,open,meta,northern-ca,-122.17390665,40.54909736,Rural,False,,0.0,2205,0.3512
+ea1abf12-2044-4ada-a7b7-12eedcb40683,48217960700,Woodbury Volunteer Fire Department,fire_department,,meta,south-central-tx,-97.2328883,32.04656802,Rural,False,,0.0,2201,0.6322
+06417698-fbd7-4d52-96e7-b8faf2a5d613,40035373500,Carselowey Fire Department,fire_department,open,meta,eastern-ok,-95.11285944,36.5308653,Rural,True,Cherokee OTSA,0.0,2200,0.6734
+61ff6be8-829d-46b0-bafd-909aaf5f8f93,40095094803,Buncombe Creek Volunteer Fire Department,community_services_non_profits,open,meta,eastern-ok,-96.77797,33.904571,Rural,True,Chickasaw OTSA,0.0,2182,0.3749
+8bab6981-67d2-4e5e-8d45-f6daf68315f5,48305950400,Wilson Volunteer Fire Department,fire_department,open,meta,south-central-tx,-101.72365801,33.31827621,Rural,False,,0.0,2178,0.6815
+913bca3a-ee8d-4995-90bf-9cae4d476c95,48319950100,Mason Volunteer Fire Department,fire_department,,meta,south-central-tx,-99.23160973528397,30.749046067488624,Rural,False,,0.0,2169,0.6515
+dff86837-2099-4756-887f-6bf053a53bf6,40015161602,Lookeba-Sickles Fire Department,fire_protection_service,,meta,eastern-ok,-98.44769395,35.36144443,Rural,True,Caddo-Wichita-Delaware OTSA,0.0,2162,0.64
+f6d070be-2d62-41de-8111-5b7daa3663da,48469000800,Inez Fire Department,fire_department,open,meta,south-central-tx,-96.78958203,28.90406269,Rural,False,,0.0,2154,0.3753
+69f6807c-8bdb-4119-8777-615f0c1da399,48337950401,Bowie Rural Fire Department,fire_protection_service,,meta,south-central-tx,-97.87638,33.54562,Rural,False,,0.0,2148,0.4321
+da498834-be47-4ed4-aefb-594a3509ed82,04007000200,Water Wheel Fire and Medical District,fire_protection_service,open,meta,maricopa-az,-111.28250984,34.36680565,Rural,False,,0.0,2132,0.5589
+b8ea7ef5-ea5e-4b91-853a-c26f908997ce,48049950100,May Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.92035888,31.9811587,Rural,False,,0.0,2127,0.379
+be2a3096-9c25-404d-a469-1a5c08552e50,40073958200,Kingfisher County Emergency Management,central_government_office,,meta,eastern-ok,-98.005599975586,35.889337492244,Rural,True,Cheyenne and Arapaho OTSA,0.0,2109,0.4535
+95eac865-8201-4e73-9b92-d46a993fde1a,40131050701,Chelsea Fire Department,fire_department,open,meta,eastern-ok,-95.42944846,36.53659484,Rural,True,Cherokee OTSA,0.0,2107,0.8456
+18536332-1b32-4ef9-a888-cf85f86bbb52,40147001000,Copan Fire Department,fire_department,open,meta,eastern-ok,-95.9257618,36.89868432,Rural,True,Cherokee OTSA,0.0,2096,0.3732
+a83b7a65-9054-4cf4-b540-f83e14de9814,48209010811,Henly Volunteer Fire Department South Station,fire_department,,meta,south-central-tx,-98.26242848,30.1012429,Rural,False,,0.0,2096,0.767
+fb6ef97a-d7c8-489d-87a6-81fbe431327d,04003000400,Tombstone Fire Department,fire_department,open,meta,maricopa-az,-110.05518684,31.70928451,Rural,False,,0.0,2084,0.296
+5d484800-b100-4d76-9ef4-2838465c2a52,40031002003,Hulen Volunteer Fire Department,community_services_non_profits,,meta,eastern-ok,-98.22682,34.50714,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,2055,0.2472
+49a076a8-bfd0-459d-8eea-2622831cf8c9,48145000500,Lott Volunteer Fire Department,fire_department,,meta,south-central-tx,-97.03382689507426,31.206391645414087,Rural,False,,0.0,2048,0.4299
+e3de5bb6-c981-4743-9a2c-b502ba6c58b3,48453035600,Volente Fire Department,fire_department,open,meta,south-central-tx,-97.90409385,30.43563888,Rural,False,,0.0,2033,0.1564
+9d38328c-dc39-4258-b9f5-1d4166ac8b21,40041375805,Monkey Island Fire Department,fire_protection_service,open,meta,eastern-ok,-94.86660268,36.59043898,Rural,True,Cherokee OTSA,0.0,2032,0.4602
+1a2fcaf2-52a9-4a96-bca8-a9bdc0c3d9cd,40085094300,Leon VFD,fire_protection_service,open,meta,eastern-ok,-97.4278471,33.8836577,Rural,True,Chickasaw OTSA,0.0,2023,0.6346
+ead6278a-1d01-41eb-bd46-43b4f898df6c,48477170602,Washington TX Volunteer Fire Dept,fire_protection_service,open,meta,south-central-tx,-96.179641,30.342292,Rural,False,,0.0,2018,0.5781
+1e5b20c0-8bd4-4ec3-abdb-29642bd8521d,06105000200,Hawkins Bar VFD,fire_department,,meta,northern-ca,-123.53309868,40.87674455,Rural,False,,0.0,2014,0.5941
+4dc49e60-9f9f-4ab0-b92f-65751686fcb3,48149970100,Carmine Volunteer Fire Dept,fire_department,,meta,south-central-tx,-96.68724,30.14833,Rural,False,,0.0,2007,0.3776
+869bc2f4-27ce-461e-9907-a6b9c2ae9315,48337950600,Montague Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.71941051,33.66526666,Rural,False,,0.0,1998,0.3431
+03f0926c-565a-4170-96ab-01b2ba387b93,40095094805,City of Kingston Fire Department,fire_department,open,meta,eastern-ok,-96.71916053,33.99885008,Rural,True,Chickasaw OTSA,0.0,1990,0.7272
+adf0fe96-45b1-46be-ac8f-acfc677b6b88,40149965000,Rocky Volunteer Fire Department,fire_protection_service,open,meta,eastern-ok,-99.060795,35.153659,Rural,True,Cheyenne and Arapaho OTSA,0.0,1989,0.5168
+113093ce-97c7-407b-976a-601e732acb9c,40091780302,Texanna Fire Department,fire_department,open,meta,eastern-ok,-95.50390807,35.35015754,Rural,True,Creek OTSA,0.0,1989,0.597
+5ce084b0-81ce-4a78-8eb4-a183b6a7cae9,48157675402,Beasley City Fire Department,fire_department,open,meta,south-central-tx,-95.91641791,29.49677711,Rural,False,,0.0,1983,0.8259
+64930237-e8fc-4e5d-9667-e8fd553aae39,48363000200,Gordon Volunteer Fire Department,fire_department,,meta,south-central-tx,-98.36947116,32.54937889,Rural,False,,0.0,1974,0.484
+7c913d65-5b77-4557-8243-d20447d3494f,48041000103,Brazos County District 2 Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.26493026,30.78759908,Rural,False,,0.0,1953,0.5957
+5166d0d0-5202-4631-a6b3-a248869e5457,48335950400,Westbrook Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-101.012318,32.360675,Rural,False,,0.0,1949,0.5582
+3d0c0d76-21c5-4b3a-977d-f7606e627936,48143950700,Selden Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-98.116047,32.142454,Rural,False,,0.0,1928,0.4821
+d042162d-c0c9-4a51-aec7-1f5ba1c58f94,40089098502,Hochatown Volunteer Fire Department,fire_department,,meta,eastern-ok,-94.744395,34.132846,Rural,True,Choctaw OTSA,0.0,1924,0.5602
+f9d82ba0-d73c-4905-a23e-498f4012c200,48213951000,City Of Malakoff Volunteer Fire Department,fire_department,,meta,south-central-tx,-96.0163471,32.1778132,Rural,False,,0.0,1917,0.9265
+e5906ca5-bb24-4f81-9645-f557c6d4f3bb,48299970300,Sunrise Beach Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-98.42453217,30.58869769,Rural,False,,0.0,1915,0.1067
+a6b90790-0cc8-48cd-b0ff-07e43a4673ff,35023970000,Animas Vol. Fire & Rescue Dept.,fire_department,open,meta,maricopa-az,-108.81753006,31.94975217,Rural,False,,0.0,1912,0.7139
+532cd015-68de-48ce-9d8f-f6ba0bc5a60b,48395960100,Bremond Volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.67573976,31.17032593,Rural,False,,0.0,1910,0.7076
+1749adf4-cb83-4427-a275-ad4ff302deac,48089750200,Sheridan Volunteer Fire Dept,fire_department,open,meta,south-central-tx,-96.67119576,29.49374846,Rural,False,,0.0,1907,0.8491
+b28021f3-6907-4514-a341-30aa0624ec18,40121486800,Ashland Volunteer Fire Department,fire_department,,meta,eastern-ok,-96.06954047,34.76508119,Rural,True,Choctaw OTSA,0.0,1905,0.6574
+9ba63824-7f96-4173-89e7-91118002ebca,48051970501,Birch Creek Are Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-96.636519,30.316615,Rural,False,,0.0,1904,0.5464
+cfcae84e-f1cd-48e1-8b16-ee2253467ecb,06057000403,Penn Valley Fire Protection District Headquarters,fire_department,open,meta,northern-ca,-121.17747888,39.19603015,Rural,False,,0.0,1894,0.3156
+fd1e7705-bc25-447f-bec7-e9a53fb8bdae,06063000201,Graeagle Fire Protection District,fire_protection_service,open,meta,northern-ca,-120.61940899,39.7697821,Rural,False,,0.0,1830,0.4335
+bdd607f0-991b-4fb8-ab8f-80a0e852973e,40059952200,Laverne Fire Department,fire_department,open,meta,eastern-ok,-99.89062756,36.69633111,Rural,False,,0.0,1812,0.3958
+08bbd54c-301d-4c46-8924-e57e61b8385c,48035950300,Lakeside Village Fire Department,fire_protection_service,,meta,south-central-tx,-97.490324,32.014016,Rural,False,,0.0,1792,0.2219
+bf799c50-5604-48ab-9e5e-c7fbbc806538,06055201800,Capell Valley Volunteer Fire Station,fire_protection_service,open,meta,northern-ca,-122.20569100041781,38.453723078781636,Rural,False,,0.0,1781,0.7682
+37d4e5ff-af82-4055-819a-4956610c0242,48321730503,Camelot Fire Dept,fire_protection_service,open,meta,south-central-tx,-95.67096962,28.83081374,Rural,False,,0.0,1773,0.5735
+400afd02-2418-4ec5-afea-b4954dd04064,48125950300,Spur Volunteer Fire Department,community_services_non_profits,,meta,south-central-tx,-100.8568854,33.4733554,Rural,False,,0.0,1770,0.8038
+f56beccb-e631-4f2a-9f7a-ad998392f55c,48133950400,Rising Star Volunteer Fire Department,fire_department,open,meta,south-central-tx,-98.96401706,32.09678635,Rural,False,,0.0,1770,0.8472
+bb0b3553-c41f-422e-90f0-17d694160909,48073951100,Wells Fire Department,fire_department,open,meta,south-central-tx,-94.94108725,31.48731781,Rural,False,,0.0,1756,0.811
+cc23fc26-bb5a-44be-9c84-40ad543950aa,48425000200,Glen Rose Fire Departments,fire_department,open,meta,south-central-tx,-97.75195113,32.2385493,Rural,False,,0.0,1737,0.7172
+e33a1a05-3a06-4cb0-b4ba-44d1463e7915,48115950600,Ackerly Volunteer Fire Department,fire_department,open,meta,south-central-tx,-101.71652879,32.52644029,Rural,False,,0.0,1722,0.7048
+d4bb6542-9cab-4533-80a7-43dd6c7f46be,40093955200,Isabella Fire Department,fire_department,open,meta,eastern-ok,-98.34007803,36.2355926,Rural,False,,0.0,1718,0.1778
+f32d66a9-a20a-4ddd-a137-ad31eb2b7787,48093950400,Proctor Volunteer Fire Department,fire_protection_service,,meta,south-central-tx,-98.430591,31.986644,Rural,False,,0.0,1715,0.6533
+5172b70d-1653-413e-8ae9-a1613a838e6f,04007000700,Tonto Basin Fire District,fire_department,open,meta,maricopa-az,-111.30950836785546,33.8592144957647,Rural,False,,0.0,1695,0.4527
+f844255c-1118-4aec-b21d-d22b0c84f9b7,40011959000,Calumet Volunteer Fire Department,fire_protection_service,open,meta,eastern-ok,-98.318621,35.630791,Rural,True,Cheyenne and Arapaho OTSA,0.0,1682,0.7097
+e3db7f18-e645-4411-aff7-7d80abaf1ef9,40109108533,Deer Creek Fire Department,fire_protection_service,open,meta,eastern-ok,-97.60316979,35.68410932,Rural,False,,0.0,1676,0.1069
+225f5913-a0b7-4101-b4a0-56d18c95396d,48187210903,Kingsbury Volunteer Fire Department,fire_department,open,meta,south-central-tx,-97.82229852,29.64841659,Rural,False,,0.0,1672,0.6428
+0799cf56-8281-4d3d-8ec8-9ca84b63de5a,48057000501,Port O'Connor volunteer Fire Department,fire_department,open,meta,south-central-tx,-96.40960789,28.4465429,Rural,False,,0.0,1655,0.4398
+8f14b490-b4b5-41be-a8a4-60e9a5988b8e,40069660202,Reagan Volunteer Fire Department,fire_protection_service,open,meta,eastern-ok,-96.68836,34.33396,Rural,True,Chickasaw OTSA,0.0,1631,0.4171
+9570e44c-052a-467c-8f4b-0e6ca079c4e3,40133583900,Sasakwa Fire Department,fire_department,,meta,eastern-ok,-96.525857,34.947524,Rural,True,Seminole OTSA,0.0,1622,0.75
+f2c70c55-dce5-4484-a1de-edc6dac9f09d,40133583100,Cromwell Fire Department,fire_department,,meta,eastern-ok,-96.458696,35.337717,Rural,True,Seminole OTSA,0.0,1594,0.6163
+c75de39e-5d8b-46db-a0c4-bb025b2d56c8,40065968300,Eldorado Fire Department,fire_protection_service,,meta,eastern-ok,-99.647883,34.473391,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,1582,0.6151
+d04a8e2b-3b84-4ddf-9b89-5998eb47a9d0,04007000600,Gisela Valley Fire Department,fire_protection_service,open,meta,maricopa-az,-111.28536476,34.09652014,Rural,False,,0.0,1569,0.5834
+46b815e3-43e4-4756-a387-3165dca9a4f6,04017964202,Clay Springs Pinedale Fire Department,fire_department,open,meta,maricopa-az,-110.24591428,34.3034133,Rural,False,,0.0,1559,0.256
+eae15b26-27e6-4c8d-8c95-43fa3c1a87cd,40065968200,Blair Volunteer Fire Department,fire_department,,meta,eastern-ok,-99.32913656,34.78066768,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,1531,0.5137
+f4683d9f-835f-4c4c-b355-17c08141d566,40043959200,Vici Fire Dept.,fire_department,,meta,eastern-ok,-99.29878832,36.15046228,Rural,True,Cheyenne and Arapaho OTSA,0.0,1530,0.6136
+4a69a57f-475e-4f81-a573-a4efef88bc75,06061022014,Olympic Valley Fire Department,fire_department,open,meta,northern-ca,-120.205861,39.20519813,Rural,False,,0.0,1529,0.2124
+0137ca62-cdf4-4ead-9d4c-4abbac12c4c1,48127950400,Asherton Fire Department,fire_department,open,meta,south-central-tx,-99.76121347,28.4516109,Rural,False,,0.0,1523,0.9807
+9fcf107c-8ffa-4dfc-81a4-624cc8975991,06115041102,Dobbins Oregon House Fire Protection District,fire_protection_service,open,meta,northern-ca,-121.25470329,39.36126305,Rural,False,,0.0,1506,0.2021
+0b4709d4-d966-450a-819d-c487f4405cea,40011958700,Canton Fire Department,fire_protection_service,,meta,eastern-ok,-98.591563,36.053192,Rural,True,Cheyenne and Arapaho OTSA,0.0,1488,0.4858
+1a11a637-c9db-48db-aaff-c1b1dd73268b,40019892301,SOAS Healdton Station,emergency_room,,meta,eastern-ok,-97.47538851,34.21654099,Rural,True,Chickasaw OTSA,0.0,1471,0.5329
+2a82b7df-125d-40dc-8df9-0cb85895eb1e,48061010102,Arroyo City Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-97.46144169,26.32323348,Rural,False,,0.0,1458,0.7254
+f7207170-ede2-48e7-9d2e-33896138ba61,40053956400,Hawley Volunteer Fire Department-Oklahoma,fire_protection_service,open,meta,eastern-ok,-98.02056282,36.75357353,Rural,False,,0.0,1443,0.4333
+80fe9289-9b87-4cfd-ac86-36f0b9b1ee20,04021002400,Mammoth Fire & Medical District,fire_protection_service,,meta,maricopa-az,-110.64230043,32.72014243,Rural,True,San Carlos Reservation,0.0,1420,0.8492
+caf2c172-8610-41ac-a3fd-f55fe5e4c122,40105172200,Delaware Fire Department,fire_department,open,meta,eastern-ok,-95.6400354,36.77690019,Rural,True,Cherokee OTSA,0.0,1416,0.3628
+d532e14b-6a45-48cb-9f52-b4c9eb4af076,06089012500,Lakehead Fire Company 54,fire_department,,meta,northern-ca,-122.38532,40.88995,Rural,False,,0.0,1408,0.4842
+d4daef59-755e-4bef-a402-11fa2741a7c4,40075963600,Gotebo Fire Department,fire_department,open,meta,eastern-ok,-98.8726498,35.06950166,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,1402,0.2946
+20b76887-4af5-4947-9eaa-8891b3168463,48303010416,West Carlisle Volunteer Fire Department,fire_department,open,meta,south-central-tx,-102.00900166,33.59654248,Rural,False,,0.0,1353,0.3823
+f5d954c4-8e2b-4262-b2d7-65aae3410058,04025000302,Northern Arizona Vein Center - Dr. Brian Schilperoort,diagnostic_services,,meta,maricopa-az,-112.423066,34.62987,Rural,False,,0.0,1350,0.341
+b6dcfa30-d383-4fcd-a179-32730e6d599c,48225950600,Ratcliff Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-95.16548653,31.37294435,Rural,False,,0.0,1343,0.6278
+fce59608-b3c1-48a8-8c3b-17525a05c40f,48399950100,Wingate Volunteer Fire Department,fire_department,open,meta,south-central-tx,-100.10964361,32.04322463,Rural,False,,0.0,1320,0.309
+4e738d72-0b2c-48da-8fe8-578190984101,48225950200,Austonio Vol Fire Dept,fire_protection_service,,meta,south-central-tx,-95.691784,31.194713,Rural,False,,0.0,1315,0.6012
+4f48361b-1d43-4aac-a0ac-e04f7ec8d96e,48161000200,Fairfield Fire Rescue,fire_protection_service,open,meta,south-central-tx,-96.15947618,31.72430156,Rural,False,,0.0,1301,0.7563
+61ea8f99-484f-4b3a-942c-034a5310ab61,48303010202,New Deal Fire and EMS,fire_department,,meta,south-central-tx,-101.83900372,33.73755069,Rural,False,,0.0,1293,0.5963
+c4e6c5d5-6e5b-44a1-a099-a93e0a6d18f6,06093001200,McCloud Fire Department,fire_department,open,meta,northern-ca,-122.13854846,41.25852561,Rural,False,,0.0,1279,0.6533
+a27a19bb-54db-42c6-9e07-74a8ca7c99bf,48321730502,Matagorda Volunteer Fire Department,fire_department,open,meta,south-central-tx,-95.96869483,28.69174625,Rural,False,,0.0,1274,0.3028
+f81eba74-a185-41d5-9e01-c541553a99dc,06063000202,Meadow Valley Fire Department,fire_department,open,meta,northern-ca,-121.05884061,39.93869813,Rural,False,,0.0,1248,0.3691
+d679252d-253f-4046-b281-0aa797643463,48217960600,Lake Whitney Pc.,it_service_and_computer_repair,,meta,south-central-tx,-97.321907,31.9499607,Rural,False,,0.0,1203,0.9768
+8216b7ee-fab8-4b3e-9f8d-95c356762cd4,48307950500,Rochelle Volunteer Fire Department,fire_protection_service,open,meta,south-central-tx,-99.208998,31.225022,Rural,False,,0.0,1161,0.5084
+e26563f4-dbc2-419a-92da-1ed1b912e919,04007000800,Tonto Basin Fire District,fire_protection_service,open,meta,maricopa-az,-111.00573059,33.60263415,Rural,False,,0.0,1099,0.6687
+dc3bf0f8-a443-42cc-9c18-38e44f53e813,48461950100,Rankin County Hospital District EMS,hospital,,meta,south-central-tx,-101.93895777689518,31.22508662261923,Rural,False,,0.0,1089,0.6183
+81775f63-8aad-4334-b60f-4d7f3c68eed7,40045952800,Arnett Fire Department,fire_department,,meta,eastern-ok,-99.77494296,36.13381205,Rural,True,Cheyenne and Arapaho OTSA,0.0,1072,0.4644
+b3920324-056f-4dbe-94f8-5580c9d40d9d,04003000101,Bowie Fire District,fire_department,open,meta,maricopa-az,-109.48754672,32.32738782,Rural,False,,0.0,1071,0.9185
+06019b8f-4c2b-4644-9846-30d43bc85d47,40041375902,Tia Juana Fire Department,fire_department,open,meta,eastern-ok,-95.00402199,36.48043686,Rural,True,Cherokee OTSA,0.0,1070,0.6754
+b7dc3dc9-e6e7-495a-a1c4-f32ba0ddbb7c,40121485601,Longtown Volunteer FireDepartment,fire_protection_service,,meta,eastern-ok,-95.517455,35.240909,Rural,True,Choctaw OTSA,0.0,1049,0.3951
+699e0c96-24ea-4c4a-93c7-8f5648c49fd8,04007001300,Winkelman Fire Department,fire_department,,meta,maricopa-az,-110.76997734,32.98857243,Rural,False,,0.0,1044,0.7093
+2d21e070-07f4-4ac3-986f-93832cafc86b,48427950101,San Isidro Fire Department,fire_department,,meta,south-central-tx,-98.403756,26.702174,Rural,False,,0.0,1040,0.7755
+eea1dc4c-a1b8-4ed8-869f-c6a95ef1a356,40041375804,Cleora Community Fire Department,fire_protection_service,open,meta,eastern-ok,-94.973958,36.554022,Rural,True,Cherokee OTSA,0.0,1039,0.3664
+08f6a9b6-cbaa-4f97-870d-c8618bdb8e56,40141070100,Oklahoma Texas Border Us183,landmark_and_historical_building,open,meta,eastern-ok,-99.07601,34.24399,Rural,True,Kiowa-Comanche-Apache-Fort Sill Apache OTSA,0.0,928,0.5547
+3ca5fe52-2ff0-4d24-a9a9-201bf2d04624,06007002100,Paradise Fire Department Station 81,fire_department,open,meta,northern-ca,-121.62469574,39.75374563,Rural,False,,0.0,926,0.8426
+b774994c-5bcc-433f-bf2e-5b4cc86b5841,06089010603,Centerville Fire Department Company 52,fire_department,,meta,northern-ca,-122.46430042,40.54561127,Rural,False,,0.0,906,0.2173
+95918ed2-08d4-42ce-b736-ebe4343e1f4b,48033950100,Borden County EMS,central_government_office,,meta,south-central-tx,-101.44975,32.77548,Rural,False,,0.0,631,0.1336
+d5dcc123-a464-4e2b-9c07-14eeaa960c3a,48261950100,Kenedy County Fire and Emergency Services District #1,fire_department,open,meta,south-central-tx,-97.79131716166661,27.224635451666657,Rural,False,,0.0,350,0.7127
+b5e337ba-c3aa-420c-9a33-56efaaeb996f,04013941100,Gila River Indian Community Fire Department Station 429,fire_department,,meta,maricopa-az,-111.97521301,33.26343135,Rural,True,Gila River Indian Reservation,0.0,43,0.0765
