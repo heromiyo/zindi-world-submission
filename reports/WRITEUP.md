@@ -11,7 +11,7 @@ Submissions this writeup covers:
 | **EqBuune1** | **0.079801846** | Final model (selected for private scoring) |
 | ruvjs19G | 0.089560921 | Constant 0.05, no model (selected as the fallback) |
 
-Code and every table quoted below are in the submission folder. Section 9 rebuilds the final file and checks its hash.
+Code and every table quoted below are public at https://github.com/heromiyo/zindi-world-submission (MIT). Section 9 rebuilds the final file and checks its hash.
 
 ---
 
